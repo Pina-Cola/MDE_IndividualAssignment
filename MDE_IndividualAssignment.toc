@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Effects of digitalization}{2}{}%
+\contentsline {section}{\numberline {2}Fast movers}{2}{}%
+\contentsline {section}{\numberline {3}Requirements to become a fast mover}{2}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

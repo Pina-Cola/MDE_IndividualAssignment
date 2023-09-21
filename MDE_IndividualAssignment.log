@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  21 SEP 2023 15:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  21 SEP 2023 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,49 +433,45 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+[1
+
+{C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(MDE_IndividualAssignment.toc)
+\tf@toc=\write3
+\openout3 = `MDE_IndividualAssignment.toc'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-Package scrlayer-scrpage Warning: \headheight to low.
-(scrlayer-scrpage)                At least 40.8pt needed,
-(scrlayer-scrpage)                but only 17.0pt found.
-(scrlayer-scrpage)                I'll enlarge \headheight, for further
-(scrlayer-scrpage)                processing, but you should do this yourself,
-(scrlayer-scrpage)                e.g., setting geometry's option
-(scrlayer-scrpage)                `head=40.8pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 6
-0.
-
-
-Overfull \vbox (23.8pt too high) has occurred while \output is active []
-
- [1{C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
-]
-(MDE_IndividualAssignment.aux) ) 
+[1] [2] (MDE_IndividualAssignment.aux) ) 
 Here is how much of TeX's memory you used:
- 9092 strings out of 475385
- 198232 string characters out of 2776907
- 698622 words of memory out of 3000000
- 30397 multiletter control sequences out of 15000+600000
- 475153 words of font info for 50 fonts, out of 8000000 for 9000
+ 9130 strings out of 475385
+ 198979 string characters out of 2776907
+ 698586 words of memory out of 3000000
+ 30427 multiletter control sequences out of 15000+600000
+ 477605 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,20n,106p,10621b,490s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/pinak/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/pinak/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on MDE_IndividualAssignment.pdf (1 page, 23108 bytes).
+ 108i,20n,106p,10621b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/pinak/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pi
+nak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx
+10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmti12.pfb>
+Output written on MDE_IndividualAssignment.pdf (3 pages, 75330 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
