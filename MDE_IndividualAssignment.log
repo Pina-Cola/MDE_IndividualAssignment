@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 SEP 2023 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  21 SEP 2023 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,12 +433,12 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
 
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -452,8 +452,8 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=40.8pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 3
-5.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 6
+0.
 
 
 Overfull \vbox (23.8pt too high) has occurred while \output is active []
