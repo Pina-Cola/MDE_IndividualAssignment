@@ -19,6 +19,36 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{scalescopespeedslides}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ccfe8ba796fd1796e4ca1136ad3b5529}{%
+           family={Ing},
+           familyi={I\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IBM Advanced Business Institute}%
+      }
+      \strng{namehash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \strng{fullhash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \strng{bibnamehash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \strng{authorbibnamehash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \strng{authornamehash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \strng{authorfullhash}{ccfe8ba796fd1796e4ca1136ad3b5529}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Slides for the ABI Focus Series}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb http://www.systemicbusiness.org/pubs/2001_IBM_ABI_Scale_Scope_Speed.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.systemicbusiness.org/pubs/2001_IBM_ABI_Scale_Scope_Speed.pdf
+      \endverb
+    \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
