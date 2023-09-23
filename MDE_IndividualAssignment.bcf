@@ -2361,11 +2361,12 @@
     <bcf:citekey order="5" intorder="2">digitalmatrix</bcf:citekey>
     <bcf:citekey order="6" intorder="1">digitalmatrix</bcf:citekey>
     <bcf:citekey order="6" intorder="2">wiwi</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">scalescopespeedslides</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">wiwi</bcf:citekey>
     <bcf:citekey order="8" intorder="1">scalescopespeedslides</bcf:citekey>
     <bcf:citekey order="8" intorder="2">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">leadingdigital</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">scalescopespeedslides</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
