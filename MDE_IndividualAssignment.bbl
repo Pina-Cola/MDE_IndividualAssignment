@@ -49,6 +49,31 @@
       \verb http://www.systemicbusiness.org/pubs/2001_IBM_ABI_Scale_Scope_Speed.pdf
       \endverb
     \endentry
+    \entry{digitalgoods}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d82fe0fae12870a47b7c9ea1a652cead}{%
+           family={Rayna},
+           familyi={R\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \strng{fullhash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \strng{bibnamehash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \strng{authorbibnamehash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \strng{authornamehash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \strng{authorfullhash}{d82fe0fae12870a47b7c9ea1a652cead}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications \& Strategies}
+      \field{number}{71}
+      \field{title}{Understanding the challenges of the digital economy: The nature of digital goods}
+      \field{year}{2008}
+      \field{pages}{13\bibrangedash 16}
+      \range{pages}{4}
+    \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
