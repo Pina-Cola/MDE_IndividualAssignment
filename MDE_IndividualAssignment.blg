@@ -1,14 +1,14 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
-[98] biber-MSWIN64:340> INFO - === 
+[99] biber-MSWIN64:340> INFO - === 
 [130] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[236] Biber.pm:978> INFO - Found 5 citekeys in bib section 0
+[235] Biber.pm:978> INFO - Found 5 citekeys in bib section 0
 [249] Biber.pm:4401> INFO - Processing section 0
-[260] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[261] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
 [305] bibtex.pm:1713> INFO - LaTeX decoding ...
 [313] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[362] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
 [362] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[362] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
 [362] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
 [362] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
 [370] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
