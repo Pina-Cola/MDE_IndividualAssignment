@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
-[170] biber-MSWIN64:340> INFO - === 
-[229] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[334] Biber.pm:978> INFO - Found 4 citekeys in bib section 0
-[349] Biber.pm:4401> INFO - Processing section 0
-[370] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
-[413] bibtex.pm:1713> INFO - LaTeX decoding ...
-[423] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[489] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[489] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[489] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[489] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[513] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
-[515] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
+[100] biber-MSWIN64:340> INFO - === 
+[131] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
+[237] Biber.pm:978> INFO - Found 4 citekeys in bib section 0
+[251] Biber.pm:4401> INFO - Processing section 0
+[262] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[302] bibtex.pm:1713> INFO - LaTeX decoding ...
+[309] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[354] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[355] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[362] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
+[364] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
