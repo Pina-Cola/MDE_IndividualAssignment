@@ -19,6 +19,40 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{fastmovers}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=206b5f825813d3e183eb015295097da1}{%
+           family={Betti},
+           familyi={B\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2e915718b7fe2367be369020565fa455}{%
+           family={Boer},
+           familyi={B\bibinitperiod},
+           given={Enno},
+           giveni={E\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0339d40a6f7438a30478f001c5504ebf}{%
+           family={Giraud},
+           familyi={G\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9466d42a2e8319583f169bac1594111}
+      \strng{fullhash}{c9466d42a2e8319583f169bac1594111}
+      \strng{bibnamehash}{c9466d42a2e8319583f169bac1594111}
+      \strng{authorbibnamehash}{c9466d42a2e8319583f169bac1594111}
+      \strng{authornamehash}{c9466d42a2e8319583f169bac1594111}
+      \strng{authorfullhash}{c9466d42a2e8319583f169bac1594111}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{World Economic Forum and McKinsey \& Company: Atlanta, GA, USA}
+      \field{title}{Industry’s fast-mover advantage: Enterprise value from digital factories}
+      \field{year}{2020}
+    \endentry
     \entry{scalescopespeedslides}{misc}{}
       \name{author}{1}{}{%
         {{hash=ccfe8ba796fd1796e4ca1136ad3b5529}{%
