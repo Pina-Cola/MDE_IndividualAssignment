@@ -131,6 +131,33 @@
       \verb http://www.systemicbusiness.org/pubs/2001_IBM_ABI_Scale_Scope_Speed.pdf
       \endverb
     \endentry
+    \entry{cookies}{article}{}
+      \name{author}{1}{}{%
+        {{hash=afadf59589cb5b22c2988d6ea8116844}{%
+           family={Jurisova},
+           familyi={J\bibinitperiod},
+           given={Vladimira},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{fullhash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{bibnamehash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{authorbibnamehash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{authornamehash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{authorfullhash}{afadf59589cb5b22c2988d6ea8116844}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rev. Appl. Socio-. Econ Res J}
+      \field{number}{1}
+      \field{title}{Affiliate marketing in the context of online marketing}
+      \field{volume}{5}
+      \field{year}{2013}
+    \endentry
     \entry{digitalgoods}{article}{}
       \name{author}{1}{}{%
         {{hash=d82fe0fae12870a47b7c9ea1a652cead}{%
