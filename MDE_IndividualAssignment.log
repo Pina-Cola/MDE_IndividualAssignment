@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 04:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 04:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1196,10 +1196,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28066 strings out of 475385
- 604132 string characters out of 2776907
- 1477060 words of memory out of 3000000
- 49014 multiletter control sequences out of 15000+600000
+ 28072 strings out of 475385
+ 604350 string characters out of 2776907
+ 1477134 words of memory out of 3000000
+ 49020 multiletter control sequences out of 15000+600000
  481778 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,19n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1224,7 +1224,7 @@ al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/
 pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
 pfb>
-Output written on MDE_IndividualAssignment.pdf (8 pages, 233576 bytes).
+Output written on MDE_IndividualAssignment.pdf (8 pages, 234061 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
