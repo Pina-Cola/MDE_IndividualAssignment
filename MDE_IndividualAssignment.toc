@@ -5,6 +5,6 @@
 \contentsline {section}{\numberline {2}Fast-movers}{4}{}%
 \contentsline {section}{\numberline {3}Requirements to become a fast mover}{5}{}%
 \contentsline {subsection}{\numberline {3.1}Digital capabilities}{5}{}%
-\contentsline {subsection}{\numberline {3.2}Leadership capabilities}{6}{}%
-\contentsline {section}{References}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Leadership capabilities}{7}{}%
+\contentsline {section}{References}{8}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
