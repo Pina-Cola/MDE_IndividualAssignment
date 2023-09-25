@@ -211,6 +211,33 @@
       \field{title}{The digital matrix: new rules for business transformation through technology}
       \field{year}{2017}
     \endentry
+    \entry{crowdsourcing}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=2bd4d38ee3244f508e581a91bd206246}{%
+           family={Vukovic},
+           familyi={V\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bd4d38ee3244f508e581a91bd206246}
+      \strng{fullhash}{2bd4d38ee3244f508e581a91bd206246}
+      \strng{bibnamehash}{2bd4d38ee3244f508e581a91bd206246}
+      \strng{authorbibnamehash}{2bd4d38ee3244f508e581a91bd206246}
+      \strng{authornamehash}{2bd4d38ee3244f508e581a91bd206246}
+      \strng{authorfullhash}{2bd4d38ee3244f508e581a91bd206246}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 Congress on Services - I}
+      \field{title}{Crowdsourcing for Enterprises}
+      \field{year}{2009}
+      \field{pages}{686\bibrangedash 692}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/SERVICES-I.2009.56
+      \endverb
+    \endentry
     \entry{leadingdigital}{book}{}
       \name{author}{3}{}{%
         {{hash=3da689c5cf8176fe95d792e6bfc4b8c1}{%

@@ -2398,6 +2398,8 @@
     <bcf:citekey order="23" intorder="1">socialmedia</bcf:citekey>
     <bcf:citekey order="24" intorder="1">productplacements</bcf:citekey>
     <bcf:citekey order="25" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="26" intorder="2">crowdsourcing</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
