@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 01:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 02:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1057,29 +1057,29 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-Package scrbase Info: activating english \abstractname on input line 79.
-Package scrbase Info: activating english \partname on input line 79.
-Package scrbase Info: activating english \figurename on input line 79.
-Package scrbase Info: activating english \tablename on input line 79.
-Package scrbase Info: activating english \contentsname on input line 79.
-Package scrbase Info: activating english \listfigurename on input line 79.
-Package scrbase Info: activating english \listtablename on input line 79.
-Package scrbase Info: activating english \refname on input line 79.
-Package scrbase Info: activating english \indexname on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+Package scrbase Info: activating english \abstractname on input line 84.
+Package scrbase Info: activating english \partname on input line 84.
+Package scrbase Info: activating english \figurename on input line 84.
+Package scrbase Info: activating english \tablename on input line 84.
+Package scrbase Info: activating english \contentsname on input line 84.
+Package scrbase Info: activating english \listfigurename on input line 84.
+Package scrbase Info: activating english \listtablename on input line 84.
+Package scrbase Info: activating english \refname on input line 84.
+Package scrbase Info: activating english \indexname on input line 84.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1090,14 +1090,14 @@ Package scrbase Info: activating english \indexname on input line 79.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 455.24411pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=745.46222pt
+* \textheight=702.78308pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.7645pt
+* \topmargin=-24.31174pt
 * \headheight=17.0pt
 * \headsep=20.40001pt
 * \topskip=11.0pt
@@ -1130,8 +1130,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 79.
-Package biblatex Info: Reference segment=0 on input line 79.
+Package biblatex Info: Reference section=0 on input line 84.
+Package biblatex Info: Reference segment=0 on input line 84.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1176,7 +1176,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [1]
-Overfull \hbox (7.7483pt too wide) in paragraph at lines 154--161
+Overfull \hbox (7.7483pt too wide) in paragraph at lines 159--166
 [][] 
  []
 
@@ -1188,11 +1188,11 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  27834 strings out of 475385
  598463 string characters out of 2776907
- 1473082 words of memory out of 3000000
+ 1472089 words of memory out of 3000000
  48805 multiletter control sequences out of 15000+600000
  479421 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,19n,128p,10621b,1511s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,19n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\pinak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1206,7 +1206,7 @@ sers/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
 pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmtt10.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 154133 bytes).
+Output written on MDE_IndividualAssignment.pdf (6 pages, 154619 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
