@@ -101,6 +101,38 @@
       \field{title}{Industry’s fast-mover advantage: Enterprise value from digital factories}
       \field{year}{2020}
     \endentry
+    \entry{tdbu}{online}{}
+      \name{author}{1}{}{%
+        {{hash=034a9a4c50cb6365d49a024f8d49eebb}{%
+           family={Cooks-Campbell},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Allaya},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \strng{fullhash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \strng{bibnamehash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \strng{authorbibnamehash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \strng{authornamehash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \strng{authorfullhash}{034a9a4c50cb6365d49a024f8d49eebb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Top-down vs. bottom-up management: What is the best fit?}
+      \field{urlday}{25}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.betterup.com/blog/top-down-vs-bottom-up-management-approach
+      \endverb
+      \verb{url}
+      \verb https://www.betterup.com/blog/top-down-vs-bottom-up-management-approach
+      \endverb
+    \endentry
     \entry{ai}{article}{}
       \name{author}{4}{}{%
         {{hash=98f79227322d869ec0e07d60547ef247}{%
