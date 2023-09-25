@@ -108,6 +108,37 @@
       \field{pages}{13\bibrangedash 16}
       \range{pages}{4}
     \endentry
+    \entry{socialmedia}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c6724c5123f6962313df7b084a59b204}{%
+           family={Saravanakumar},
+           familyi={S\bibinitperiod},
+           given={Murugesan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fec05b92a097537cd450abfa50905b9}{%
+           family={SuganthaLakshmi},
+           familyi={S\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b038620211e3b93310641f172f856393}
+      \strng{fullhash}{b038620211e3b93310641f172f856393}
+      \strng{bibnamehash}{b038620211e3b93310641f172f856393}
+      \strng{authorbibnamehash}{b038620211e3b93310641f172f856393}
+      \strng{authornamehash}{b038620211e3b93310641f172f856393}
+      \strng{authorfullhash}{b038620211e3b93310641f172f856393}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Life science journal}
+      \field{number}{4}
+      \field{title}{Social media marketing}
+      \field{volume}{9}
+      \field{year}{2012}
+      \field{pages}{4444\bibrangedash 4451}
+      \range{pages}{8}
+    \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
