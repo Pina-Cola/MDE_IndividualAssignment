@@ -184,6 +184,48 @@
       \field{volume}{5}
       \field{year}{2013}
     \endentry
+    \entry{dataan}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fb32214bc6dae4916ce3c908a0bc75a6}{%
+           family={LaValle},
+           familyi={L\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=941554233378c65109474c15de7275d6}{%
+           family={Lesser},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d04f8c7dcf727e674d237c13159387a5}{%
+           family={Shockley},
+           familyi={S\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4dd4bc2c886e2f0a3003d93caaefbc12}{%
+           family={Hopkins},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=685773fa1369cc573b65cb6018be3a2d}{%
+           family={Kruschwitz},
+           familyi={K\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b44ac1ea53a70de9d7df494ed61d197}
+      \strng{fullhash}{faf7f321dac03a221587ef556b718fc9}
+      \strng{bibnamehash}{faf7f321dac03a221587ef556b718fc9}
+      \strng{authorbibnamehash}{faf7f321dac03a221587ef556b718fc9}
+      \strng{authornamehash}{0b44ac1ea53a70de9d7df494ed61d197}
+      \strng{authorfullhash}{faf7f321dac03a221587ef556b718fc9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT sloan management review}
+      \field{title}{Big data, analytics and the path from insights to value}
+      \field{year}{2010}
+    \endentry
     \entry{digitalgoods}{article}{}
       \name{author}{1}{}{%
         {{hash=d82fe0fae12870a47b7c9ea1a652cead}{%
