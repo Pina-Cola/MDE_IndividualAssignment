@@ -133,21 +133,21 @@
     \endentry
     \entry{cookies}{article}{}
       \name{author}{1}{}{%
-        {{hash=afadf59589cb5b22c2988d6ea8116844}{%
-           family={Jurisova},
+        {{hash=e0751befee6a81af4c8de1433f9df40f}{%
+           family={Juriŝová},
            familyi={J\bibinitperiod},
-           given={Vladimira},
+           given={Vladimíra},
            giveni={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Citeseer}%
       }
-      \strng{namehash}{afadf59589cb5b22c2988d6ea8116844}
-      \strng{fullhash}{afadf59589cb5b22c2988d6ea8116844}
-      \strng{bibnamehash}{afadf59589cb5b22c2988d6ea8116844}
-      \strng{authorbibnamehash}{afadf59589cb5b22c2988d6ea8116844}
-      \strng{authornamehash}{afadf59589cb5b22c2988d6ea8116844}
-      \strng{authorfullhash}{afadf59589cb5b22c2988d6ea8116844}
+      \strng{namehash}{e0751befee6a81af4c8de1433f9df40f}
+      \strng{fullhash}{e0751befee6a81af4c8de1433f9df40f}
+      \strng{bibnamehash}{e0751befee6a81af4c8de1433f9df40f}
+      \strng{authorbibnamehash}{e0751befee6a81af4c8de1433f9df40f}
+      \strng{authornamehash}{e0751befee6a81af4c8de1433f9df40f}
+      \strng{authorfullhash}{e0751befee6a81af4c8de1433f9df40f}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{labelnamesource}{author}
