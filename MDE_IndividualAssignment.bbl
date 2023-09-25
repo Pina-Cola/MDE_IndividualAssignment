@@ -101,6 +101,50 @@
       \field{title}{Industry’s fast-mover advantage: Enterprise value from digital factories}
       \field{year}{2020}
     \endentry
+    \entry{ai}{article}{}
+      \name{author}{4}{}{%
+        {{hash=98f79227322d869ec0e07d60547ef247}{%
+           family={Enholm},
+           familyi={E\bibinitperiod},
+           given={Ida\bibnamedelima Merete},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e8922ef6560931ebd0b1c534b5220d17}{%
+           family={Papagiannidis},
+           familyi={P\bibinitperiod},
+           given={Emmanouil},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d83d9a1fb775f19fdc52fea49676877d}{%
+           family={Mikalef},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1ee03fba6e5fa363f8fb927a95957f76}{%
+           family={Krogstie},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5deaba78579770f7500b993b93361529}
+      \strng{fullhash}{e2c895f8eb421e7ef25715e66cd24fb9}
+      \strng{bibnamehash}{e2c895f8eb421e7ef25715e66cd24fb9}
+      \strng{authorbibnamehash}{e2c895f8eb421e7ef25715e66cd24fb9}
+      \strng{authornamehash}{5deaba78579770f7500b993b93361529}
+      \strng{authorfullhash}{e2c895f8eb421e7ef25715e66cd24fb9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Systems Frontiers}
+      \field{number}{5}
+      \field{title}{Artificial intelligence and business value: A literature review}
+      \field{volume}{24}
+      \field{year}{2022}
+      \field{pages}{1709\bibrangedash 1734}
+      \range{pages}{26}
+    \endentry
     \entry{eas1}{article}{}
       \name{author}{2}{}{%
         {{hash=a28d4b0d6f3cef2151ae120f46965532}{%
@@ -183,6 +227,38 @@
       \field{title}{Affiliate marketing in the context of online marketing}
       \field{volume}{5}
       \field{year}{2013}
+    \endentry
+    \entry{ai2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=752f623b72711cc58fb4eef43411c5fc}{%
+           family={Laurent},
+           familyi={L\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ac7f227340bf012aca02f3b06c2dc12f}{%
+           family={Chollet},
+           familyi={C\bibinitperiod},
+           given={Thibault},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6fb37c0a16312501e9a687312d53cc32}{%
+           family={Herzberg},
+           familyi={H\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{47cc6ad86d1469565dc349879934d10f}
+      \strng{fullhash}{47cc6ad86d1469565dc349879934d10f}
+      \strng{bibnamehash}{47cc6ad86d1469565dc349879934d10f}
+      \strng{authorbibnamehash}{47cc6ad86d1469565dc349879934d10f}
+      \strng{authornamehash}{47cc6ad86d1469565dc349879934d10f}
+      \strng{authorfullhash}{47cc6ad86d1469565dc349879934d10f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deloitte, available at https://www2. deloitte. com/content/dam/Deloitte/lu/Documents/operations/lu-intelligent-automationbusiness-world. pdf (accessed 5th March, 2018)}
+      \field{title}{Intelligent automation entering the business world}
+      \field{year}{2015}
     \endentry
     \entry{dataan}{article}{}
       \name{author}{5}{}{%
