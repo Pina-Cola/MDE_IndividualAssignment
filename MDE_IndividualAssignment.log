@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 03:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 04:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -285,10 +285,33 @@ Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 217
 Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
 (scrlayer-scrpage)             alias to `pageheadfoot' on input line 1089.
 )
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/tablefootnote\tablefoot
+note.sty
+Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
+
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
@@ -300,15 +323,9 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count279
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -322,9 +339,6 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -1053,29 +1067,29 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-Package scrbase Info: activating english \abstractname on input line 84.
-Package scrbase Info: activating english \partname on input line 84.
-Package scrbase Info: activating english \figurename on input line 84.
-Package scrbase Info: activating english \tablename on input line 84.
-Package scrbase Info: activating english \contentsname on input line 84.
-Package scrbase Info: activating english \listfigurename on input line 84.
-Package scrbase Info: activating english \listtablename on input line 84.
-Package scrbase Info: activating english \refname on input line 84.
-Package scrbase Info: activating english \indexname on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+Package scrbase Info: activating english \abstractname on input line 85.
+Package scrbase Info: activating english \partname on input line 85.
+Package scrbase Info: activating english \figurename on input line 85.
+Package scrbase Info: activating english \tablename on input line 85.
+Package scrbase Info: activating english \contentsname on input line 85.
+Package scrbase Info: activating english \listfigurename on input line 85.
+Package scrbase Info: activating english \listtablename on input line 85.
+Package scrbase Info: activating english \refname on input line 85.
+Package scrbase Info: activating english \indexname on input line 85.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1126,8 +1140,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 84.
-Package biblatex Info: Reference segment=0 on input line 84.
+Package biblatex Info: Reference section=0 on input line 85.
+Package biblatex Info: Reference segment=0 on input line 85.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1172,13 +1186,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [1]
-Overfull \hbox (7.7483pt too wide) in paragraph at lines 162--169
+Overfull \hbox (7.7483pt too wide) in paragraph at lines 163--170
 [][] 
  []
 
 [2] [3] [4]
-Overfull \hbox (1.2217pt too wide) in paragraph at lines 359--373
-[][] 
+Overfull \hbox (1.2217pt too wide) in paragraph at lines 360--375
+[][]
  []
 
 [5] [6] [7] (MDE_IndividualAssignment.aux)
@@ -1187,13 +1201,13 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27847 strings out of 475385
- 598907 string characters out of 2776907
- 1472266 words of memory out of 3000000
- 48818 multiletter control sequences out of 15000+600000
- 479421 words of font info for 64 fonts, out of 8000000 for 9000
+ 28057 strings out of 475385
+ 603853 string characters out of 2776907
+ 1477962 words of memory out of 3000000
+ 49005 multiletter control sequences out of 15000+600000
+ 481778 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,19n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,20n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\pinak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1203,14 +1217,18 @@ TeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pinak/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
-rs/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.
-pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmtt10.pfb>
-Output written on MDE_IndividualAssignment.pdf (8 pages, 176138 bytes).
+rs/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+<C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r8.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on MDE_IndividualAssignment.pdf (8 pages, 216982 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
