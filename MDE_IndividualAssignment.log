@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 03:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 03:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1177,7 +1177,7 @@ Overfull \hbox (7.7483pt too wide) in paragraph at lines 162--169
  []
 
 [2] [3] [4]
-Overfull \hbox (86.57996pt too wide) in paragraph at lines 359--373
+Overfull \hbox (15.44806pt too wide) in paragraph at lines 359--373
 [][] 
  []
 
@@ -1187,10 +1187,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27839 strings out of 475385
- 598652 string characters out of 2776907
- 1472203 words of memory out of 3000000
- 48810 multiletter control sequences out of 15000+600000
+ 27847 strings out of 475385
+ 598907 string characters out of 2776907
+ 1472266 words of memory out of 3000000
+ 48818 multiletter control sequences out of 15000+600000
  479421 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,19n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1207,7 +1207,7 @@ sers/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
 pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmtt10.pfb>
-Output written on MDE_IndividualAssignment.pdf (7 pages, 164518 bytes).
+Output written on MDE_IndividualAssignment.pdf (7 pages, 167116 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -19,6 +19,54 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{productplacements}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0eb8aa9008f8cac105eb8a3142a0416f}{%
+           family={Babacan},
+           familyi={B\bibinitperiod},
+           given={Eylin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=65ddaaf4f12c01b77966d062e3d2f288}{%
+           family={Akcali},
+           familyi={A\bibinitperiod},
+           given={Selda\bibnamedelima İçin},
+           giveni={S\bibinitperiod\bibinitdelim İ\bibinitperiod}}}%
+        {{hash=5aa3c0fd249f3bc19297664f66071b06}{%
+           family={Baytekin},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi Pelin},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \strng{fullhash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \strng{bibnamehash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \strng{authorbibnamehash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \strng{authornamehash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \strng{authorfullhash}{235f0a8ff2428b9bbb2a94f683584ce3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Product placement which has gradually increased in importance especially with globalization and competition, which has intensified in recent years, is a marketing communication activity which has started to be frequently employed in television serials, cinema industry, computer games and books. In this study, the general characteristics of product placement as a marketing communications practice shall be discussed and how such practice is employed in the most watched Turkish television serials shall be scrutinized through examples.}
+      \field{issn}{1877-0428}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{note}{World Conference on Business, Economics and Management (BEM-2012), May 4–6 2012, Antalya, Turkey}
+      \field{title}{Product Placement as a Rising Marketing Communication Activity: An Assessment on Television Serials}
+      \field{volume}{62}
+      \field{year}{2012}
+      \field{pages}{1319\bibrangedash 1331}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.sbspro.2012.09.226
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877042812036671
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877042812036671
+      \endverb
+      \keyw{Produt placement,marketing communication,exemplary practices}
+    \endentry
     \entry{fastmovers}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=206b5f825813d3e183eb015295097da1}{%

@@ -2396,6 +2396,7 @@
     <bcf:citekey order="21" intorder="3">wiwi</bcf:citekey>
     <bcf:citekey order="22" intorder="1">leadingdigital</bcf:citekey>
     <bcf:citekey order="23" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">productplacements</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
