@@ -282,6 +282,35 @@
       \field{pages}{4444\bibrangedash 4451}
       \range{pages}{8}
     \endentry
+    \entry{agile}{book}{}
+      \name{author}{2}{}{%
+        {{hash=31d1fe71d53f03a2ddacc52e7fe87cda}{%
+           family={Shore},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5e4044a4c1a16ddcd0c36c0bf8ddf90a}{%
+           family={Warden},
+           familyi={W\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {" O'Reilly Media, Inc."}%
+      }
+      \strng{namehash}{ef6544da749162e5796565d189ef4ca8}
+      \strng{fullhash}{ef6544da749162e5796565d189ef4ca8}
+      \strng{bibnamehash}{ef6544da749162e5796565d189ef4ca8}
+      \strng{authorbibnamehash}{ef6544da749162e5796565d189ef4ca8}
+      \strng{authornamehash}{ef6544da749162e5796565d189ef4ca8}
+      \strng{authorfullhash}{ef6544da749162e5796565d189ef4ca8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The art of agile development}
+      \field{year}{2021}
+    \endentry
     \entry{eas2}{article}{}
       \name{author}{2}{}{%
         {{hash=237afa8e2f477ed639cf574dd9a45d83}{%
