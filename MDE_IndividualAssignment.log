@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 05:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  25 SEP 2023 06:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1067,29 +1067,29 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-Package scrbase Info: activating english \abstractname on input line 85.
-Package scrbase Info: activating english \partname on input line 85.
-Package scrbase Info: activating english \figurename on input line 85.
-Package scrbase Info: activating english \tablename on input line 85.
-Package scrbase Info: activating english \contentsname on input line 85.
-Package scrbase Info: activating english \listfigurename on input line 85.
-Package scrbase Info: activating english \listtablename on input line 85.
-Package scrbase Info: activating english \refname on input line 85.
-Package scrbase Info: activating english \indexname on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+Package scrbase Info: activating english \abstractname on input line 83.
+Package scrbase Info: activating english \partname on input line 83.
+Package scrbase Info: activating english \figurename on input line 83.
+Package scrbase Info: activating english \tablename on input line 83.
+Package scrbase Info: activating english \contentsname on input line 83.
+Package scrbase Info: activating english \listfigurename on input line 83.
+Package scrbase Info: activating english \listtablename on input line 83.
+Package scrbase Info: activating english \refname on input line 83.
+Package scrbase Info: activating english \indexname on input line 83.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1140,8 +1140,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 85.
-Package biblatex Info: Reference segment=0 on input line 85.
+Package biblatex Info: Reference section=0 on input line 83.
+Package biblatex Info: Reference segment=0 on input line 83.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1186,28 +1186,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [1]
-Overfull \hbox (7.7483pt too wide) in paragraph at lines 163--170
+Overfull \hbox (7.7483pt too wide) in paragraph at lines 161--168
 [][] 
  []
 
-[2] [3] [4] [5] [6] [7]
-Overfull \hbox (151.13887pt too wide) in paragraph at lines 496--496
-\OT1/cmr/m/n/10.95 busi-ness world''. In: \OT1/cmr/m/it/10.95 De-loitte, avail-
-able at https://www2. de-loitte. com/content/dam/Deloitte/lu/Documents/operatio
-ns/lu-
- []
-
-[8] [9] (MDE_IndividualAssignment.aux)
+[2] [3] [4] [5] [6] [7] [8] (MDE_IndividualAssignment.aux)
 Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 \openout1 = `MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28087 strings out of 475385
- 604820 string characters out of 2776907
- 1477284 words of memory out of 3000000
- 49034 multiletter control sequences out of 15000+600000
- 482482 words of font info for 76 fonts, out of 8000000 for 9000
+ 28093 strings out of 475385
+ 604999 string characters out of 2776907
+ 1479337 words of memory out of 3000000
+ 49039 multiletter control sequences out of 15000+600000
+ 482650 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,19n,128p,10621b,1509s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\pinak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
@@ -1216,25 +1209,26 @@ ts/cm/cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pinak/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
-rs/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/pinak/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pin
+ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr6.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pinak/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users
+/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r8.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr9.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/pinak/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/
-pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C
-:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols
-/msbm10.pfb>
-Output written on MDE_IndividualAssignment.pdf (10 pages, 248425 bytes).
+tt9.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/symbols/msbm10.pfb>
+Output written on MDE_IndividualAssignment.pdf (9 pages, 258007 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

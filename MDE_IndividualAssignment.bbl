@@ -256,7 +256,7 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Deloitte, available at https://www2. deloitte. com/content/dam/Deloitte/lu/Documents/operations/lu-intelligent-automationbusiness-world. pdf (accessed 5th March, 2018)}
+      \field{journaltitle}{Deloitte, available at \url{https://www2. deloitte. com/content/dam/Deloitte/lu/Documents/operations/lu-intelligent-automationbusiness-world. pdf (accessed 5th March, 2018)}}
       \field{title}{Intelligent automation entering the business world}
       \field{year}{2015}
     \endentry
@@ -420,6 +420,36 @@
       \field{year}{2012}
       \field{pages}{42\bibrangedash 45}
       \range{pages}{4}
+    \endentry
+    \entry{cybersecurity}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b430a2fb0b1746e4ee358e9bdf4eaf60}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={National},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{fullhash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{bibnamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authorbibnamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authornamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authorfullhash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Cybersecurity and Its Importance to Business}
+      \field{urlday}{25}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nu.edu/blog/what-is-cybersecurity/#:~:text=A%20cyberattack%20can%20disrupt%20your,the%20potential%20for%20costly%20interruptions.
+      \endverb
+      \verb{url}
+      \verb https://www.nu.edu/blog/what-is-cybersecurity/#:~:text=A%20cyberattack%20can%20disrupt%20your,the%20potential%20for%20costly%20interruptions.
+      \endverb
     \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
