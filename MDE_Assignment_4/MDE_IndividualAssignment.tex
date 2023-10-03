@@ -1,0 +1,156 @@
+\documentclass[a4]{scrartcl}
+
+% \usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\usepackage{tablefootnote}
+% \clearscrheadfoot
+
+\setlength{\parindent}{0em}
+
+\setlength{\parskip}{1.3ex}
+
+\usepackage[onehalfspacing]{setspace}
+
+
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	top=3cm, % Top margin
+	bottom=3cm, % Bottom margin
+	left=2cm, % Left margin
+	right=3cm, % Right margin
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+\usepackage[backend=biber, maxbibnames=99]{biblatex}
+\addbibresource{references.bib}
+
+
+
+\usepackage[framemethod=TikZ]{mdframed}
+
+% Style %
+\mdfdefinestyle{enviStyle}{
+	innertopmargin = 10pt,
+	linewidth      = 1pt,
+	frametitlerule = true,
+	roundcorner    = 2pt%
+}
+
+
+
+
+
+\newenvironment{CountingDefinition}[2][]{%
+	\ifstrempty{#1}%
+	{\mdfsetup{%
+			frametitle={{\strut ~}}}
+	}%
+	{\mdfsetup{%
+			frametitle={{\strut ~#1}}}%
+	}%
+	\mdfsetup{
+		nobreak                   = true,
+		linecolor                 = gray,
+		frametitlebackgroundcolor = gray!50,
+		style                     = enviStyle
+	}
+	\begin{mdframed}[]\relax%
+		\label{#2}}{\end{mdframed}}
+
+
+
+
+
+
+
+
+
+%\ohead{\\
+%	Pina Kolling\\
+%	piko0011}
+
+\begin{document}
+	
+	\begin{titlepage}
+		\centering
+		{\scshape\LARGE Umeå University \par}
+		\vspace{1cm}
+		{\scshape\Large Managing the Digital Enterprise \par }
+		\vspace{1.5cm}
+		{\huge\bfseries  Individual Assignment 4 \par}
+		\vspace{2cm}
+		{\Large\itshape Pina Kolling\par}
+		\vfill
+		supervised by \par 
+		\vspace{1cm}
+		Dr. Daniel \textsc{Skog} \par 
+		and \par 
+		M. Sc. Ramy \textsc{Shenouda} 
+		
+		\vfill
+		
+		% Bottom of the page
+		{\large \today\par}
+	\end{titlepage}
+	
+	\setcounter{page}{1}
+	
+	\begin{doublespace}
+		\tableofcontents
+	\end{doublespace}
+
+	
+	\newpage
+
+
+
+
+
+
+
+
+
+
+
+%-------------------------------------------------------------------------------------------
+	\section{Section 1} \label{sec:Sec1}
+
+	\begin{CountingDefinition}[Definitions]{def:defdef}
+		
+		\begin{tabular}{lp{13.5cm}}
+			
+			Text
+			
+		\end{tabular}
+	
+				
+	\end{CountingDefinition}
+
+
+
+	
+	\newpage
+	\addcontentsline{toc}{section}{References}
+	\begin{spacing}{0.9}
+		\printbibliography
+	\end{spacing}
+
+
+	
+	
+	
+	
+	
+	
+\end{document}
