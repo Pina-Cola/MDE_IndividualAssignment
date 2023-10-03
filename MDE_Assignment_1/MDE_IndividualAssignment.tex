@@ -1,0 +1,492 @@
+\documentclass[a4]{scrartcl}
+
+% \usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{scrlayer-scrpage}
+\pagestyle{scrheadings}
+\usepackage{tablefootnote}
+% \clearscrheadfoot
+
+\setlength{\parindent}{0em}
+
+\setlength{\parskip}{1.3ex}
+
+\usepackage[onehalfspacing]{setspace}
+
+
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	top=3cm, % Top margin
+	bottom=3cm, % Bottom margin
+	left=2cm, % Left margin
+	right=3cm, % Right margin
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+\usepackage[backend=biber, maxbibnames=99]{biblatex}
+\addbibresource{references.bib}
+
+
+
+\usepackage[framemethod=TikZ]{mdframed}
+
+% Style %
+\mdfdefinestyle{enviStyle}{
+	innertopmargin = 10pt,
+	linewidth      = 1pt,
+	frametitlerule = true,
+	roundcorner    = 2pt%
+}
+
+
+
+
+
+\newenvironment{CountingDefinition}[2][]{%
+	\ifstrempty{#1}%
+	{\mdfsetup{%
+			frametitle={{\strut ~}}}
+	}%
+	{\mdfsetup{%
+			frametitle={{\strut ~#1}}}%
+	}%
+	\mdfsetup{
+		nobreak                   = true,
+		linecolor                 = gray,
+		frametitlebackgroundcolor = gray!50,
+		style                     = enviStyle
+	}
+	\begin{mdframed}[]\relax%
+		\label{#2}}{\end{mdframed}}
+
+
+
+
+
+
+
+
+
+%\ohead{\\
+%	Pina Kolling\\
+%	piko0011}
+
+\begin{document}
+	
+	\begin{titlepage}
+		\centering
+		{\scshape\LARGE Umeå University \par}
+		\vspace{1cm}
+		{\scshape\Large Managing the Digital Enterprise \par }
+		\vspace{1.5cm}
+		{\huge\bfseries  Individual Assignment 1 \par}
+		\vspace{2cm}
+		{\Large\itshape Pina Kolling\par}
+		\vfill
+		supervised by \par 
+		\vspace{1cm}
+		Dr. Daniel \textsc{Skog} \par 
+		and \par 
+		M. Sc. Ramy \textsc{Shenouda} 
+		
+		\vfill
+		
+		% Bottom of the page
+		{\large \today\par}
+	\end{titlepage}
+	
+	\setcounter{page}{1}
+	
+	\begin{doublespace}
+		\tableofcontents
+	\end{doublespace}
+
+	
+	\newpage
+	
+	% Assignment 1 (For the grade Pass)
+	%As digitalization increasingly permeates all levels of society, the conditions, tools and challenges for contemporary organizing are changing. The course literature provides different (but interconnected) perspectives, explanations and analyses of the changing nature of organizing. Your task is to: 
+	
+	%Use the concepts of scale, scope, and speed to explain how business and organizing conditions are changing for companies as their environments are increasingly digitalized.
+	%Explain the concept of "fast movers" and use the concept of the nexus of scale, scope and speed to explain how organizations can become fast movers.
+	%Argue for what leadership capabilities and digital capabilities an organization should prioritize building in order to become a fast mover. 
+	
+	
+	%In order to pass, the student needs to: 
+	%Present the concepts of scale, scope, speed and their dynamics in a way that corresponds with that of the course literature.  
+	%Use the concepts of scale, scope, and speed to clearly demonstrate how conditions for business and organizing change in digitalized envrionments. 
+	%Present the concept of fast mover in a way that corresponds with that of the course literature. 
+	%Illustrate how the concept of fast movers logically follows from the conditions offered by the nexus of scale, scope, and speed. 
+	%Present clear and grounded arguments to which digital and leadership capabilities an organization should focus on and why when it wants to become a fast mover.
+	%Instructions:
+	%Submit your answer as a .pdf file
+	%The answer to the assignment has a limit of 2500 words
+	%Read the questions carefully and make sure that your answers meet the stated grading criteria.
+	%Be ambitious in terms of language, indication of sources, and structure. The university library has useful tips to assist you with this at https://writingguide.se/
+	%Please note that your arguments must be grounded in the course literature (unless otherwise is specified by the question). You are, however, encouraged to make use of additional sources.
+	%This is an individual exam and any attempts to plagiarize will be identified by a plagiarism software. Plagiarism in any form will be reported and followed by disciplinary action.
+	%For this assignment, students can obtain the grade Pass or Fail.
+	%Your results will be communicated no later than 15 working days after assignment deadline.
+	%If a student does not obtain Pass after the first attempt, a re-examn will be offered, however not earlier than 10 working days after the grades from the first round have been communicated.
+
+
+
+
+
+
+
+
+
+
+
+
+%-------------------------------------------------------------------------------------------
+	\section{Effects of digitalization} \label{sec:EffectsOfDigitalization}
+	
+	%Use the concepts of scale, scope, and speed to explain how business and organizing conditions are changing for companies as their environments are increasingly digitalized.
+	
+	The digitalization of business and organization has a big impact on companies, reshaping the way they operate and compete. The market and circumstances of business and organizations are changing constantly and rapidly. These changes can be analyzed through the lens of \textit{Scale}, \textit{Scope} and \textit{Speed}.~\cite{scalescopespeedslides, digitalmatrix}
+	
+
+	
+	\begin{CountingDefinition}[Definitions]{def:defdef}
+		
+		\begin{tabular}{lp{13.5cm}}
+			
+			\textbf{Scale} & describes the size and reach of an organization, for example the rate at which products are created. \cite{scalescopespeedslides, digitalmatrix}\\
+			\textbf{Scope} & describes the investment in customer relationships or physical distribution.~\cite{scalescopespeedslides, digitalmatrix} \\
+			\textbf{Speed} & describes the pace in which existing capabilities are improved and new capabilities are developed.~\cite{scalescopespeedslides, digitalmatrix} \\
+			
+		\end{tabular}
+	
+				
+	\end{CountingDefinition}
+
+
+	\textit{Scale}, \textit{Scope} and \textit{Speed} are also referred to as the three dimensions of digital business.~\cite{scalescopespeedslides, digitalmatrix}
+
+
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------------
+\subsection{Scale} \label{subsec:Scale}
+ 
+\vspace*{1.3em}
+\begin{CountingDefinition}[Scale]{def:scale}
+	Scale refers to the size and reach of an organization, for example the rate at which products are created. \cite{scalescopespeedslides, digitalmatrix}
+\end{CountingDefinition}
+
+
+Companies extended their \textit{Scale} in the industrial era by increasing sales of products. This was limited by physical attributes such as cost and availability of materials and reaching enough costumers.  \cite{digitalgoods, digitalmatrix, wiwi}
+
+
+A big aspect of the change of a company's \textit{Scale} in the context of digitalization is the existence of digital goods. Goods can be seperated into the categories of material goods, services and digital goods. Digital goods can easily and cheap be reproduced and distributed. A physical product (material good) has to be produced more often, which generates more costs for material, transport, logistics and production in general. A digital product can often be reproduced and distributed on a bigger scale easily, after the product was created once. Mostly maintenance aspects including potential server costs can increase -- the initial development costs of the product will not change. \cite{digitalgoods, wiwi}
+
+
+Digitalization enables companies to reach a global market without a material good.
+But digital goods introduce new challenges like a high rate of piracy, because the digital goods can easily be reproduced and distributed by the consumer, too. \cite{digitalgoods}
+
+
+
+
+
+
+\newpage
+%----------------------------------------------------------------------------------------------
+\subsection{Scope} \label{subsec:Scope}
+
+\begin{CountingDefinition}[Scope]{def:scope}
+	Scope describes the investment in customer relationships or	physical distribution. \cite{scalescopespeedslides, digitalmatrix}
+\end{CountingDefinition}
+
+As described in Section \ref{subsec:Scale}, companies extended their \textit{Scale} in the industrial era by increasing sales of products. This was limited by physical attributes such as reaching enough costumers or physical distrubution (\textit{Scope}). Digitalization enables companies to reach a global market more easily, because the costs of communication and transportation and distribution were decreased drastically. \cite{digitalgoods, digitalmatrix, wiwi}
+
+Digitalization introduced new opportunities to distribute products - for example the distribution of digital goods. Partnerships between businesses became more important and the relationships to the customer are primarily built online. A website for distribution and online customer support often replace the personal experience of direct communication between a seller and a customer. \cite{digitalgoods, digitalmatrix, wiwi}
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------------
+\subsection{Speed} \label{subsec:Speed}
+
+\begin{CountingDefinition}[Speed]{def:speed}
+	Speed describes the pace in which existing capabilities are improved and new capabilities are developed. \cite{scalescopespeedslides, digitalmatrix}
+\end{CountingDefinition}
+
+Digitalization has accelerated the pace of business operations. As already mentioned in Section \ref{subsec:Scale} and \ref{subsec:Scope}, the product development cykles have shortened and become more easy and the existence of digital goods changed the whole market. \cite{ digitalgoods, digitalmatrix}
+
+But with the increase of \textit{Speed} the customer expectations adapted and the expectations for the \textit{Speed} of a company have increased. \cite{wiwi}
+
+	
+Overall, digitalization has transformed the business landscape by increasing the potential and rate for \textit{Scale}, expanding the \textit{Scope} of activities, and accelerating the \textit{Speed}. Companies are trying to adapt to these changes by continuously monitoring and adjusting their strategies to succeed in the digital era. Failure to do so can leave them at a disadvantage, because the customer expectations are constantly growing. \cite{digitalmatrix, leadingdigital, wiwi}
+	
+	
+	
+	
+	
+	
+	
+	
+%-------------------------------------------------------------------------------------------	
+	\newpage
+	\section{Fast-movers} \label{sec:FastMovers}
+	
+	%Explain the concept of "fast movers" and use the concept of the nexus of scale, scope and speed to explain how organizations can become fast movers.
+	
+	Fast movers have the ability to recognize opportunities and respond to challenges rapidly.~\cite{fastmovers, digitalmatrix}
+
+	\begin{CountingDefinition}[Fast-mover]{def:fastmovers}
+		Fast-movers refers to companies or organizations that can adapt quickly to changes in their environment, for example market shifts, technological developments or competitive pressures. \cite{fastmovers, digitalmatrix}
+	\end{CountingDefinition}
+
+	The concepts of \textit{Scale}, \textit{Scope} and \textit{Speed} can be used to explain how organizations become fast-movers. Those concepts were explained in Section \ref{sec:EffectsOfDigitalization}.
+	
+	\begin{itemize}
+		\item \textit{\textbf{Scale}} refers to factors like the market share or production capacity. A company that is a fast-mover has to scale to their advantage in consideration of the current market situation. A significant presence in their field will lead to more capital and more attention, which can for example lead to better educated workers or other opportunities. \cite{fastmovers, digitalmatrix}
+		
+		
+		
+		\item \textit{\textbf{Scope}}  describes the range of activities and markets in which a company is involved. A broad \textit{Scope} is allowing diversity and reducing risks and can also lead to access to a wider variety of customers, which can be an advantage when the company quickly adapts to changes. \cite{fastmovers, digitalmatrix}
+		
+		
+	\end{itemize}
+
+	Speed is the most crucial element in becoming a fast mover, because of the importance of quick adaption to changes, dynamic organization structures and previously described adjustments of \textit{Scale} and \textit{Scope}. \cite{fastmovers, digitalmatrix}
+
+	\begin{itemize}
+		\item \textit{\textbf{Speed}} describes the ability to make quick decisions and execute strategies fast, which leads to a quick respond to changes in the market. To be able to have this agility, a company often requires an open mindset towards innovation, short and direct decision making processes and efficiency in execution. \cite{fastmovers, digitalmatrix, wiwi}
+		
+		
+	\end{itemize}
+
+Becoming a fast-mover requires a balance between \textit{Scale}, \textit{Scope}, and \textit{Speed}. Companies that can control these elements can adapt to changing circumstances and new opportunities. This is neccessary to defy the competition in today's dynamic markets.
+Because of this, the concept of fast-movers follows from the concepts of  \textit{Scale}, \textit{Scope}, and \textit{Speed}. Businesses that combine these elements can achieve a competitive advantage, because they can respond rapidly to changing conditions and new opportunities to get growth and success in today's business environment.
+
+
+	% chat GPT
+	
+	
+	
+	%Now, how do these elements interact in the nexus of scale, scope, and speed to help organizations become fast movers?
+	
+	%- **Leveraging Scale and Scope**: Organizations with significant scale and scope can use their resources and market presence to experiment with new ideas, expand into adjacent markets, and diversify their offerings. This diversification provides a buffer against market volatility, and it allows them to take calculated risks.
+	
+	%- **Speed through Innovation**: To become a fast mover, organizations need to prioritize innovation. They should encourage a culture of creativity, invest in R&D, and develop the ability to quickly prototype and test new ideas. Speed is not just about acting fast but also about acting smartly.
+	
+	%- **Adaptive Leadership and Decision-Making**: Fast-moving organizations have leaders who are open to change and can make rapid decisions. They often decentralize decision-making to empower teams closer to the front lines, enabling faster responses to market dynamics.
+	
+	%- **Efficient Execution**: Finally, fast movers excel in executing their strategies efficiently. They have agile processes, supply chain efficiencies, and technology infrastructures that allow them to turn ideas into reality quickly.
+
+	
+	
+	
+	% buch
+	%However, scale at speed creates not first-mover advantage but
+	%fast-mover advantage, which may currently be limited by your company’s
+	%internal organizational processes and systems, if they cannot recognize and
+	%respond to the shifts as quickly as some of the newer companies. Changing
+	%scope at speed also reflects fast-mover advantage, where the advantage may
+	%lie not necessarily in launching products but in tapping into scarce critical
+	%resources such as unique interconnected data, patents, talents, or research
+	%and development projects, often executed with others.
+	%How well you stack up against not only other incumbents, who themselves
+	%are transforming, but also against newer-age companies that are aiming to
+	%disrupt and transform your industry may well define your ability to compete and
+	%win in the digital realm. Those companies that take maximum advantage of
+	%scale, scope, and speed together are able to gain significant advantage in the
+	%digital business world. First, with data and analytics and connectivity, you can
+	%now extend your footprint beyond your core firm’s boundaries and tap into
+	%extended ecosystems. Second, through sensors, software, and connectivity,
+	%you now have the capability to collect data, process information, and learn in
+	%ways that would have been difficult if not impossible in the industrial world
+	
+	
+	
+	
+	
+	
+	
+	
+%-------------------------------------------------------------------------------------------
+	\newpage
+	\section{Requirements to become a fast mover} \label{sec:ReqFastMovers}
+	
+	%Argue for what leadership capabilities and digital capabilities an organization should prioritize building in order to become a fast mover. 
+	
+	To become a fast-mover in today's dynamic markets, companies need to be able to respond to changes quickly -- they need to prioritize digital and leadership capabilities. The aspects of being a fast-mover were explained in Section \ref{sec:FastMovers}.
+	
+	%\begin{CountingDefinition}[Digital master]{def:digitalmaster}
+	%	Companies are required to master digital and leadership capabilities to be
+	%	\textit{Digital Masters}.~\cite{leadingdigital}
+	%\end{CountingDefinition}
+	
+	
+
+	
+	
+	
+	
+	
+	
+	%--------------------------------------------------------------------------------------------
+	\subsection{Digital capabilities} \label{subsec:digitalcapabilities}
+	
+	A company which wants to succeed in today's rapidly changing digital environment and become a fast-mover %or \textit{Digital Master} 
+	has to make use of their digital capabilities. This includes changing their customer engagements, internal operations and structures or changing the business models. Tools such as social media or enterprise application software (\textit{EAS}) are seen as opportunities for big changes and improvement by fast-movers.~\cite{leadingdigital}
+	
+	Due to the complexity and the different aspects of today's technology, companies should consider many rules, aspects and opportunities for mastering the digital field. This can range from social media marketing to cyber security. In the following, some of those aspects are discussed.
+	
+	\begin{itemize}
+		
+		
+		\item \textbf{Social media} can be used to build an online presence. This can be done to create attention to the company, establishing and enhancing the brand image, learn from customers, target customers, placing targeted advertising and expand market research. The wide area of social media platforms allow different ways of digital marketing strategies. Some strategies are listed and described in the following table.~\cite{socialmedia}
+		
+		\def\arraystretch{1.35}
+		\begin{tabular}{l|p{10.5cm}}
+			
+			Product placements & A technique where products or references are part of another work, such as a movie, tv program or youtube\footnotemark \ video with promotional intent.~\cite{productplacements} \\
+			
+			Promotions & Special offers and information are provided only to \textit{fans}, for example a discount for the first $x \in \mathbb{N}$ customers.~\cite{socialmedia} \\
+			
+			Crowd sourcing & Obtaining knowledge or services from a body of people, for example giving feedback or designing a companies' logo.~\cite{socialmedia, crowdsourcing} \\ 
+			
+			Tracking & Cookies or other mechanisms to check-in can be used to track user behavior, show personalized ads and measure the effectiveness of advertisement campaigns.~\cite{cookies} \\
+			
+			Games & Hosting a successful (mini) game to combine entertainment and advertisement.~\cite{socialmedia}  \\
+
+			
+		\end{tabular}	
+	
+			\footnotetext[1]{YouTube is an online video sharing and social media platform (\url{www.youtube.com})}
+			
+		\begin{tabular}{l|p{10.5cm}}
+			
+			Media sharing sites & Uploading photos or videos to a website that can often be
+			accessed for free from anywhere in the world can have effects on the exposure of a company.~\cite{socialmedia} \\
+			
+			Review sites & Websites on which reviews are posted about businesses or products effect the opinion of new customers.~\cite{socialmedia} \\
+			
+			Forums & Online discussion sites where people can ask questions and discuss in the form of posted messages are a way to improve a company's reputation -- some forum users are respected experts in their field.~\cite{socialmedia} \\
+			
+			
+		\end{tabular}
+
+		
+		
+		
+		
+		
+		
+		\item \textit{\textbf{EAS}} is used by companies to organize internal structures, track the use of resources, sharing data within the organization and optimize their efficiency, for example by reducing redundant processes. One challenge of integrating \textit{EAS} into a company is the need to provide training to employees to ensure the software's proper utilization and functionality.~\cite{eas1, eas2}
+		
+		
+		
+		\item \textit{\textbf{Data Analytics and Insights}} can be used to collect and analyze, information for a company to be able to act faster and make more informed decisions.~\cite{dataan}
+		
+		
+		\item \textit{\textbf{Agile Development}} in software development and an adaptable IT infrastructure are essential for organizations to respond quickly to changing customer needs and market conditions. It is a flexible approach and can help with delivering products or services more quickly with reduced risks more flexibility. While it originated in software development, agile principles can be applied to a wide range of industries and situations.~\cite{agile}
+		
+		
+		
+		\item \textit{\textbf{AI\footnote{\textit{AI} is short for Artificial Intelligence} and automation}} can be used to automate routine tasks to reduce the workload on employees and to predict and analyze processes. This can improve the efficiency and speed in various business operations.~\cite{ai}
+		
+		\begin{tabular}{l|p{10.5cm}}
+			
+			AI & Machines perform tasks that typically require human intelligence, for example chatbots or predictive analytics for  optimization.~\cite{ai, ai2}\\
+			
+			Machine Learning & A subset of AI that uses algorithms that learn from data and helps to improve performance over time. It can help to predict customer behavior or optimize marketing campaigns or strategies.~\cite{ai2}\\
+			
+			Automation & Replacing manual tasks with technology-driven solutions, including workflow automation or robotic process automation. With this, businesses can reduce human error and workload, increase productivity and cut costs.~\cite{ai2}\\
+			
+		\end{tabular}
+		
+		
+		\item 	\textit{\textbf{Cypersecurity}} to protect a company's data, systems and customer trust. Failure in cybersecurity can disrupt business operations, cause downtime and lower of productivity.~\cite{cybersecurity}
+		
+		
+		
+		\item \textit{\textbf{Digital skills of employees}} are important to ensure the efficiency of the digital improvements. A company's employees should have the skills and expertise needed to use the potential of the digital capabilities.
+		
+		
+		
+	\end{itemize}
+	
+
+	By considering these digital capabilities, companies can create a culture of innovation and agility that enables them to respond quickly to market changes and make them a fast-mover in their industry. To be able to implement those techniques and being able to profit from the advantages, an open mindset towards fundamental changes and the education of the company's employees is important.
+	
+	
+	
+	
+	
+	
+	
+	
+	%--------------------------------------------------------------------------------------------
+	\subsection{Leadership capabilities} \label{subsec:leadershipcapabilities}
+	
+	
+	Committed leadership is neccessary to use the advantages of technology and adapt to changing circumstances quickly and become a fast-mover. According to \textit{Leading digital: Turning technology into business transformation} by Westerman, Bonnet and McAfee \cite{leadingdigital}, transformation does not happen successfully \textit{bottom-up} but a strong \textit{top-down} approach with a set direction is needed.
+
+
+	\begin{itemize}
+		
+		\item \textit{\textbf{Bottom-up}} in leadership strategies refers to an approach, where ideas and initiatives come from employees at various levels of the organization. Then those ideas are evaluated and potentially integrated into the company's strategy.~\cite{tdbu}
+		
+		\item \textit{\textbf{Top-down}} in leadership context includes a strong guidance and coordination. A company's leaders decide on strategies and goals for the company and these directives are handed down to the lower levels of the organization.
+		On the one hand, the \textit{top-down} approach provides a clear vision and alignment in the goals of a company. The employees are able to focus on their work, because of clear goals and expectations. On the other hand, the employees might be discouraged because they are excluded from the decision making process.
+		A challenge for company's that want to be fast-movers is the acceptance of new strategies within the company: Fast-movers have to adapt to new situations quickly and the employees might fear the change and uncertanity and have to be retrained to adapt to the new strategies.~\cite{tdbu, leadingdigital}
+		
+		
+	\end{itemize}
+	
+	\subsection{Conclusion} \label{subsec:conc}
+	
+	In conclusion, the digitalization of business environments is referring to reshaping the dynamics of \textit{Scale}, \textit{Scope}, and \textit{Speed}. These dynamics were described in Section \ref{sec:EffectsOfDigitalization}. As companies increasingly digitalize to eventually become fast-movers, they are required to scale their operations efficiently, broaden their scope of offerings to remain competitive and enhance the speed at which they adapt to ever-evolving markets. This was discussed in Section \ref{sec:FastMovers}.
+	
+	
+	The concept of fast-movers describes how organizations can thrive in this digital era by adapting quickly to changing circumstances and new opportunities. This was described in Section \ref{sec:FastMovers}.
+	
+	Requirements to become a fast-mover were described in Section \ref{sec:ReqFastMovers}. To become a fast-mover, companies need to prioritize building leadership capabilities (with a top-down approach) and simultaneously investing in digital capabilities. This includes data analytics, automation, \textit{AI} and cybersecurity. These strategies empower companies to be innovative, optimize processes and become fast movers in the digital age, to ensure their relevance and success in a rapidly developing digital business environment.
+
+	
+
+
+
+
+
+
+%-------------------------------------------------------------------------------------------	
+	
+
+	
+	\newpage
+	\addcontentsline{toc}{section}{References}
+	\begin{spacing}{0.9}
+		\printbibliography
+	\end{spacing}
+
+
+	
+	
+	
+	
+	
+	
+\end{document}
