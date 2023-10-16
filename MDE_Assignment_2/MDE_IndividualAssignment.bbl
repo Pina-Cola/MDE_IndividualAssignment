@@ -19,6 +19,31 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{masterthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a965b4558de2b2d57f5e283760332ceb}{%
+           family={Sandra\bibnamedelima Sjöbäck},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Amanda\bibnamedelima Spaak},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Linköping University}%
+      }
+      \strng{namehash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{fullhash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{bibnamehash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{authorbibnamehash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{authornamehash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{authorfullhash}{a965b4558de2b2d57f5e283760332ceb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital Business Transformation in Incumbent Firms}
+      \field{type}{mathesis}
+      \field{year}{2021}
+    \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
@@ -76,6 +101,58 @@
       \field{labeltitlesource}{title}
       \field{title}{Leading digital: Turning technology into business transformation}
       \field{year}{2014}
+    \endentry
+    \entry{ZHANG}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a80b10d49ab55855bac1d16df187c052}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhengyi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=2e32cc59f0756db9eb0ddcf638526cf0}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2397dd20a0f3b441e9263c3eb4e82c90}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shijing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac315b0962f0894abb10f92c3f7d3ac6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yuanmin},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4bf3e2631cadbf0cd4b0d38e71f752d}
+      \strng{fullhash}{4eaaf9b935637c96e2f62c75607814cf}
+      \strng{bibnamehash}{4eaaf9b935637c96e2f62c75607814cf}
+      \strng{authorbibnamehash}{4eaaf9b935637c96e2f62c75607814cf}
+      \strng{authornamehash}{f4bf3e2631cadbf0cd4b0d38e71f752d}
+      \strng{authorfullhash}{4eaaf9b935637c96e2f62c75607814cf}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Digital technology has created new elements of innovation types and given incumbent firms new portfolios of innovation. The portfolio of innovation used during a digital transformation allows it to be successfully implemented and gives a competitive advantage to incumbent firms. We present two propositions for the portfolio of innovation and its shift during the process of digital transformation. Based on an emergent innovation matrix, we conducted a multi-case study on three Chinese firms from different industries, in order to identify the novel innovation types that appear when these firms undergo digital transformation. The research suggests that incumbent firms innovate in various ways simultaneously to implement a digital transformation when faced with market and technology change, and the portfolio of innovation shifts during the digital transformation process.}
+      \field{issn}{0160-791X}
+      \field{journaltitle}{Technology in Society}
+      \field{title}{Digital transformation of incumbent firms from the perspective of portfolios of innovation}
+      \field{volume}{72}
+      \field{year}{2023}
+      \field{pages}{102149}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.techsoc.2022.102149
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160791X22002901
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0160791X22002901
+      \endverb
+      \keyw{Digital transformation,Portfolio of innovation,Dynamic process,Incumbent firms,China}
     \endentry
   \enddatalist
 \endrefsection
