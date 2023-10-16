@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  16 OCT 2023 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  16 OCT 2023 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1170,35 +1170,34 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(MDE_IndividualAssignment.toc)
-\tf@toc=\write5
-\openout5 = `MDE_IndividualAssignment.toc'.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 114
-.
+(MDE_IndividualAssignment.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 114
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1] [2] [3] (MDE_IndividualAssignment.aux)
+))
+\tf@toc=\write5
+\openout5 = `MDE_IndividualAssignment.toc'.
+
+
+[1] [2] [3] [4] (MDE_IndividualAssignment.aux)
 Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 \openout1 = `MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27961 strings out of 475385
- 601546 string characters out of 2776907
- 1469351 words of memory out of 3000000
- 48919 multiletter control sequences out of 15000+600000
- 478259 words of font info for 60 fonts, out of 8000000 for 9000
+ 27978 strings out of 475385
+ 602161 string characters out of 2776907
+ 1474393 words of memory out of 3000000
+ 48936 multiletter control sequences out of 15000+600000
+ 478553 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,128p,10621b,1388s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,19n,128p,10621b,1384s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -1208,9 +1207,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pin
 ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (4 pages, 110993 bytes).
+Output written on MDE_IndividualAssignment.pdf (5 pages, 118717 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
