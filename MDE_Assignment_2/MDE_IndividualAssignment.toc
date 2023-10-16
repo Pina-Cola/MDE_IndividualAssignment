@@ -1,2 +1,5 @@
-\contentsline {section}{\numberline {1}Section 1}{2}{}%
+\contentsline {section}{\numberline {1}Digital Transformation in Incumbent Companies}{2}{}%
+\contentsline {section}{\numberline {2}Key challenges for established companies}{2}{}%
+\contentsline {section}{\numberline {3}Strategies for overcoming challenges}{2}{}%
+\contentsline {section}{References}{3}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
