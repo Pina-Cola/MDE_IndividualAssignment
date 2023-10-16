@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}Digital Transformation in Incumbent Companies}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Changing Consumer Expectations}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Emerging Technologies and Competitive Disruption}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Customer Expectations}{2}{}%
+\contentsline {subsection}{\numberline {1.2}New Technologies and Competitors}{2}{}%
 \contentsline {subsection}{\numberline {1.3}Data-Driven Decision-Making}{3}{}%
 \contentsline {section}{\numberline {2}Key challenges for established companies}{3}{}%
 \contentsline {section}{\numberline {3}Strategies for overcoming challenges}{3}{}%
