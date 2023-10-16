@@ -20,22 +20,27 @@
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
     \entry{masterthesis}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=a965b4558de2b2d57f5e283760332ceb}{%
-           family={Sandra\bibnamedelima Sjöbäck},
-           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Amanda\bibnamedelima Spaak},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      \name{author}{2}{}{%
+        {{hash=152bc44b175e8a881b36a48042e813e6}{%
+           family={Sjöbäck},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c64e040ef4540a00e107ee4f13939ac4}{%
+           family={Spaak},
+           familyi={S\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Linköping University}%
       }
-      \strng{namehash}{a965b4558de2b2d57f5e283760332ceb}
-      \strng{fullhash}{a965b4558de2b2d57f5e283760332ceb}
-      \strng{bibnamehash}{a965b4558de2b2d57f5e283760332ceb}
-      \strng{authorbibnamehash}{a965b4558de2b2d57f5e283760332ceb}
-      \strng{authornamehash}{a965b4558de2b2d57f5e283760332ceb}
-      \strng{authorfullhash}{a965b4558de2b2d57f5e283760332ceb}
+      \strng{namehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{fullhash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{bibnamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authorbibnamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authornamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authorfullhash}{6ae7c931d9511c29e700570a3096ad4d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
