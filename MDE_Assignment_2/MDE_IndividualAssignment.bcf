@@ -2380,6 +2380,13 @@
     <bcf:citekey order="13" intorder="3">digitalmatrix</bcf:citekey>
     <bcf:citekey order="13" intorder="4">leadingdigital</bcf:citekey>
     <bcf:citekey order="14" intorder="1">DDDM</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">masterthesis</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="15" intorder="2">DDDM</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">DDDM</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">DDDM</bcf:citekey>
+    <bcf:citekey order="17" intorder="2">masterthesis</bcf:citekey>
+    <bcf:citekey order="17" intorder="3">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
