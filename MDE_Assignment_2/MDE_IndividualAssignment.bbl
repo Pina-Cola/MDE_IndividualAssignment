@@ -60,6 +60,30 @@
       \field{title}{Digitalization of local owner operated retail outlets: the role of the perception of competition and customer expectations}
       \field{year}{2016}
     \endentry
+    \entry{AI}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0ad7b7b50f220390cbf1c36575c6a49a}{%
+           family={Ertel},
+           familyi={E\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{fullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{bibnamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authorbibnamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authornamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authorfullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to artificial intelligence}
+      \field{year}{2018}
+    \endentry
     \entry{trust}{article}{}
       \name{author}{3}{}{%
         {{hash=ac46f80d63c3e2b1829ef438dba4b4a5}{%
@@ -132,6 +156,44 @@
       \field{year}{2013}
       \field{pages}{51\bibrangedash 59}
       \range{pages}{9}
+    \endentry
+    \entry{iot}{article}{}
+      \name{author}{3}{}{%
+        {{hash=588fd9792481edfc9f941b06dda6e44b}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=76332ed373d7eb418dc5df34288e8940}{%
+           family={Eldridge},
+           familyi={E\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9b9e9b6b4370b2382e0635c892678999}{%
+           family={Chapin},
+           familyi={C\bibinitperiod},
+           given={Lyman},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Reston, VA}%
+      }
+      \strng{namehash}{82e131c6f6ae71849bf661026918ece2}
+      \strng{fullhash}{82e131c6f6ae71849bf661026918ece2}
+      \strng{bibnamehash}{82e131c6f6ae71849bf661026918ece2}
+      \strng{authorbibnamehash}{82e131c6f6ae71849bf661026918ece2}
+      \strng{authornamehash}{82e131c6f6ae71849bf661026918ece2}
+      \strng{authorfullhash}{82e131c6f6ae71849bf661026918ece2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The internet society (ISOC)}
+      \field{title}{The internet of things: An overview}
+      \field{volume}{80}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 50}
+      \range{pages}{50}
     \endentry
     \entry{socialmedia}{article}{}
       \name{author}{2}{}{%
@@ -281,6 +343,45 @@
       \field{labeltitlesource}{title}
       \field{title}{Leading digital: Turning technology into business transformation}
       \field{year}{2014}
+    \endentry
+    \entry{blockchain}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9b43de9b4785a4dba33a815e35aece8d}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4c8da99ac33d96d29f39224ef3126fa1}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhiwei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=204fbda95039477b7727ff45da00a309}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Qingliang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{64a75b4e470d53534317b4f3a5d6552b}
+      \strng{fullhash}{64a75b4e470d53534317b4f3a5d6552b}
+      \strng{bibnamehash}{64a75b4e470d53534317b4f3a5d6552b}
+      \strng{authorbibnamehash}{64a75b4e470d53534317b4f3a5d6552b}
+      \strng{authornamehash}{64a75b4e470d53534317b4f3a5d6552b}
+      \strng{authorfullhash}{64a75b4e470d53534317b4f3a5d6552b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Corporate Accounting \& Finance}
+      \field{number}{4}
+      \field{title}{Blockchain: The introduction and its application in financial accounting}
+      \field{volume}{29}
+      \field{year}{2018}
+      \field{pages}{37\bibrangedash 47}
+      \range{pages}{11}
     \endentry
     \entry{ZHANG}{article}{}
       \name{author}{4}{}{%
