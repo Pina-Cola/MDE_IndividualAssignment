@@ -60,6 +60,45 @@
       \field{title}{Digitalization of local owner operated retail outlets: the role of the perception of competition and customer expectations}
       \field{year}{2016}
     \endentry
+    \entry{trust}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ac46f80d63c3e2b1829ef438dba4b4a5}{%
+           family={Jelovac},
+           familyi={J\bibinitperiod},
+           given={Dejan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3f1194402fb83837654a410feb81be79}{%
+           family={Ljubojević},
+           familyi={L\bibinitperiod},
+           given={Čedomir},
+           giveni={Č\bibinitperiod}}}%
+        {{hash=b1a8d8ee46b6bc0abadc82a98e624424}{%
+           family={Ljubojević},
+           familyi={L\bibinitperiod},
+           given={Ljubomir},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{51594930f27c0a60ab486f567f3c364d}
+      \strng{fullhash}{51594930f27c0a60ab486f567f3c364d}
+      \strng{bibnamehash}{51594930f27c0a60ab486f567f3c364d}
+      \strng{authorbibnamehash}{51594930f27c0a60ab486f567f3c364d}
+      \strng{authornamehash}{51594930f27c0a60ab486f567f3c364d}
+      \strng{authorfullhash}{51594930f27c0a60ab486f567f3c364d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digital Policy, Regulation and Governance}
+      \field{number}{6}
+      \field{title}{HPC in business: the impact of corporate digital responsibility on building digital trust and responsible corporate digital governance}
+      \field{volume}{24}
+      \field{year}{2022}
+      \field{pages}{485\bibrangedash 497}
+      \range{pages}{13}
+    \endentry
     \entry{socialmedia}{article}{}
       \name{author}{2}{}{%
         {{hash=c6724c5123f6962313df7b084a59b204}{%

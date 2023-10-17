@@ -2370,9 +2370,10 @@
     <bcf:citekey order="8" intorder="1">socialmedia</bcf:citekey>
     <bcf:citekey order="8" intorder="2">digitalmatrix</bcf:citekey>
     <bcf:citekey order="8" intorder="3">leadingdigital</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">masterthesis</bcf:citekey>
-    <bcf:citekey order="9" intorder="2">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="9" intorder="3">leadingdigital</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">trust</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">masterthesis</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="10" intorder="3">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
