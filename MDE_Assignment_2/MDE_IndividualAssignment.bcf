@@ -2357,12 +2357,17 @@
     <bcf:citekey order="3" intorder="2">leadingdigital</bcf:citekey>
     <bcf:citekey order="4" intorder="1">masterthesis</bcf:citekey>
     <bcf:citekey order="5" intorder="1">CustomerExpectations</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">masterthesis</bcf:citekey>
-    <bcf:citekey order="5" intorder="3">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="5" intorder="4">leadingdigital</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">masterthesis</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="6" intorder="3">leadingdigital</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">socialmedia</bcf:citekey>
+    <bcf:citekey order="5" intorder="3">masterthesis</bcf:citekey>
+    <bcf:citekey order="5" intorder="4">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="5" intorder="5">leadingdigital</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">masterthesis</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="6" intorder="4">leadingdigital</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">masterthesis</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
