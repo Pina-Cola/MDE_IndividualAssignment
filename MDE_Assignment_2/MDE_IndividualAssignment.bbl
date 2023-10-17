@@ -60,6 +60,50 @@
       \field{title}{Digitalization of local owner operated retail outlets: the role of the perception of competition and customer expectations}
       \field{year}{2016}
     \endentry
+    \entry{DDDM}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8ed1595603a3a1979da94f38b661e659}{%
+           family={Bousdekis},
+           familyi={B\bibinitperiod},
+           given={Alexandros},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0fc73367e77e9238de192c3b7fd6aefe}{%
+           family={Lepenioti},
+           familyi={L\bibinitperiod},
+           given={Katerina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8e39da71dddab266b8cb5fa1c293c122}{%
+           family={Apostolou},
+           familyi={A\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7eeb3882c43c3d1bdf6bc95edd97aa5a}{%
+           family={Mentzas},
+           familyi={M\bibinitperiod},
+           given={Gregoris},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{7b42d45b12c09e3fbb38b5c21b5c4bdf}
+      \strng{fullhash}{47b5e0be1ae4544ffff25f2ece831947}
+      \strng{bibnamehash}{47b5e0be1ae4544ffff25f2ece831947}
+      \strng{authorbibnamehash}{47b5e0be1ae4544ffff25f2ece831947}
+      \strng{authornamehash}{7b42d45b12c09e3fbb38b5c21b5c4bdf}
+      \strng{authorfullhash}{47b5e0be1ae4544ffff25f2ece831947}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronics}
+      \field{number}{7}
+      \field{title}{A review of data-driven decision-making methods for industry 4.0 maintenance applications}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{828}
+      \range{pages}{1}
+    \endentry
     \entry{trust}{article}{}
       \name{author}{3}{}{%
         {{hash=ac46f80d63c3e2b1829ef438dba4b4a5}{%
