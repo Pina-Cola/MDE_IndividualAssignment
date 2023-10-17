@@ -160,6 +160,36 @@
       \field{type}{mathesis}
       \field{year}{2021}
     \endentry
+    \entry{cybersecurity}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b430a2fb0b1746e4ee358e9bdf4eaf60}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={National},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{fullhash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{bibnamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authorbibnamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authornamehash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \strng{authorfullhash}{b430a2fb0b1746e4ee358e9bdf4eaf60}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Cybersecurity and Its Importance to Business}
+      \field{urlday}{25}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nu.edu/blog/what-is-cybersecurity/#:~:text=A%20cyberattack%20can%20disrupt%20your,the%20potential%20for%20costly%20interruptions.
+      \endverb
+      \verb{url}
+      \verb https://www.nu.edu/blog/what-is-cybersecurity/#:~:text=A%20cyberattack%20can%20disrupt%20your,the%20potential%20for%20costly%20interruptions.
+      \endverb
+    \endentry
     \entry{digitalmatrix}{book}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
