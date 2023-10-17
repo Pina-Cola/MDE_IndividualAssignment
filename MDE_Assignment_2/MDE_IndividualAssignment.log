@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  17 OCT 2023 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  17 OCT 2023 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1211,23 +1211,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `MDE_IndividualAssignment.toc'.
 
 
-[1]
-Overfull \hbox (4.62593pt too wide) in paragraph at lines 176--177
-[]\OT1/cmr/m/n/10.95 **Convenience and Ac-ces-si-bil-ity**: The con-ve-nience o
-f dig-i-tal chan-nels, such as e-commerce
- []
-
-[2] [3] [4]
+[1] [2] [3] [4]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 278.
+ne 282.
 
 
-Overfull \hbox (1.28749pt too wide) in paragraph at lines 279--279
+Overfull \hbox (1.28749pt too wide) in paragraph at lines 283--283
 []\OT1/cmr/m/n/10.95 Sandra Sj^^?ob^^?ack and Amanda Spaak. ``Dig-i-tal Busi-ne
 ss Trans-for-ma-tion in In-cum-bent Firms''.
  []
@@ -1244,7 +1238,7 @@ Here is how much of TeX's memory you used:
  49094 multiletter control sequences out of 15000+600000
  479335 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,19n,128p,10621b,1384s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,20n,128p,10621b,1384s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -1257,7 +1251,7 @@ ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
 Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
 .pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 150867 bytes).
+Output written on MDE_IndividualAssignment.pdf (6 pages, 152099 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

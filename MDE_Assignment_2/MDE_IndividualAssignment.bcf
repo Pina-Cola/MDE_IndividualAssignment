@@ -2366,8 +2366,13 @@
     <bcf:citekey order="6" intorder="3">digitalmatrix</bcf:citekey>
     <bcf:citekey order="6" intorder="4">leadingdigital</bcf:citekey>
     <bcf:citekey order="7" intorder="1">masterthesis</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="7" intorder="3">leadingdigital</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">leadingdigital</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">socialmedia</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">leadingdigital</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">masterthesis</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
