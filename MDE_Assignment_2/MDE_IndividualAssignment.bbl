@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{CustomerExpectations}{article}{}
+      \name{author}{5}{}{%
+        {{hash=65192c1966f54dc40483f4455a68613d}{%
+           family={Bollweg},
+           familyi={B\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9f46fd600e004faa242cd31f7541b318}{%
+           family={Lackes},
+           familyi={L\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f3d648bb23b8a2d04f6c90c431e10665}{%
+           family={Siepermann},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b7b7c8a8bd5773575769d45ab0f70515}{%
+           family={Sutaj},
+           familyi={S\bibinitperiod},
+           given={Arbnesh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=11a4c77819ceb3cfde280208a66364f3}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{105b9530a3016bdb06f9bda841b05bb0}
+      \strng{fullhash}{42c1d16e33a0adffd3cbe0883771faab}
+      \strng{bibnamehash}{42c1d16e33a0adffd3cbe0883771faab}
+      \strng{authorbibnamehash}{42c1d16e33a0adffd3cbe0883771faab}
+      \strng{authornamehash}{105b9530a3016bdb06f9bda841b05bb0}
+      \strng{authorfullhash}{42c1d16e33a0adffd3cbe0883771faab}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digitalization of local owner operated retail outlets: the role of the perception of competition and customer expectations}
+      \field{year}{2016}
+    \endentry
     \entry{masterthesis}{thesis}{}
       \name{author}{2}{}{%
         {{hash=152bc44b175e8a881b36a48042e813e6}{%
