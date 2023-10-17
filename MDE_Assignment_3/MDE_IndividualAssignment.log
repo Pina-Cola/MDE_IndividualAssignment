@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  16 OCT 2023 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  17 OCT 2023 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,29 +1084,29 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-Package scrbase Info: activating english \abstractname on input line 86.
-Package scrbase Info: activating english \partname on input line 86.
-Package scrbase Info: activating english \figurename on input line 86.
-Package scrbase Info: activating english \tablename on input line 86.
-Package scrbase Info: activating english \contentsname on input line 86.
-Package scrbase Info: activating english \listfigurename on input line 86.
-Package scrbase Info: activating english \listtablename on input line 86.
-Package scrbase Info: activating english \refname on input line 86.
-Package scrbase Info: activating english \indexname on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+Package scrbase Info: activating english \abstractname on input line 89.
+Package scrbase Info: activating english \partname on input line 89.
+Package scrbase Info: activating english \figurename on input line 89.
+Package scrbase Info: activating english \tablename on input line 89.
+Package scrbase Info: activating english \contentsname on input line 89.
+Package scrbase Info: activating english \listfigurename on input line 89.
+Package scrbase Info: activating english \listtablename on input line 89.
+Package scrbase Info: activating english \refname on input line 89.
+Package scrbase Info: activating english \indexname on input line 89.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1183,8 +1183,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 86.
-Package biblatex Info: Reference segment=0 on input line 86.
+Package biblatex Info: Reference section=0 on input line 89.
+Package biblatex Info: Reference segment=0 on input line 89.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1194,19 +1194,19 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 113.
+ne 116.
 
 (MDE_IndividualAssignment.toc)
 \tf@toc=\write5
 \openout5 = `MDE_IndividualAssignment.toc'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 117
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
 .
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 117
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
 .
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1214,7 +1214,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1] [2]
 
-LaTeX Warning: Empty bibliography on input line 149.
+LaTeX Warning: Empty bibliography on input line 152.
 
 (MDE_IndividualAssignment.aux)
 Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
@@ -1224,7 +1224,7 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  27885 strings out of 475385
  598831 string characters out of 2776907
- 1479210 words of memory out of 3000000
+ 1479218 words of memory out of 3000000
  48842 multiletter control sequences out of 15000+600000
  478220 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1237,7 +1237,7 @@ ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (3 pages, 87103 bytes).
+Output written on MDE_IndividualAssignment.pdf (3 pages, 87048 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
