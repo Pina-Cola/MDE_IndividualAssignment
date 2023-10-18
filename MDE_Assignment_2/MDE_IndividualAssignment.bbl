@@ -398,6 +398,35 @@
       \field{title}{Lecture notes in Digitalisierung}
       \field{year}{2021}
     \endentry
+    \entry{agile}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ac1e50ce894baf2b2696469652fb6a7b}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod}}}%
+        {{hash=501d2f526090c84bd9ec3d9c8b214298}{%
+           family={Bleek},
+           familyi={B\bibinitperiod},
+           given={Wolf-Gideon},
+           giveni={W\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {dpunkt. verlag}%
+      }
+      \strng{namehash}{49c762557ea36b33b052a1a637a7f71d}
+      \strng{fullhash}{49c762557ea36b33b052a1a637a7f71d}
+      \strng{bibnamehash}{49c762557ea36b33b052a1a637a7f71d}
+      \strng{authorbibnamehash}{49c762557ea36b33b052a1a637a7f71d}
+      \strng{authornamehash}{49c762557ea36b33b052a1a637a7f71d}
+      \strng{authorfullhash}{49c762557ea36b33b052a1a637a7f71d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agile softwareentwicklung: Werte, konzepte und methoden}
+      \field{year}{2011}
+    \endentry
     \entry{blockchain}{article}{}
       \name{author}{3}{}{%
         {{hash=9b43de9b4785a4dba33a815e35aece8d}{%
