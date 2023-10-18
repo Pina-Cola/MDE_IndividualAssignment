@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{legacy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7ffbf80df0819aa7fc8416381a055687}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7ffbf80df0819aa7fc8416381a055687}
+      \strng{fullhash}{7ffbf80df0819aa7fc8416381a055687}
+      \strng{bibnamehash}{7ffbf80df0819aa7fc8416381a055687}
+      \strng{authorbibnamehash}{7ffbf80df0819aa7fc8416381a055687}
+      \strng{authornamehash}{7ffbf80df0819aa7fc8416381a055687}
+      \strng{authorfullhash}{7ffbf80df0819aa7fc8416381a055687}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE software}
+      \field{number}{1}
+      \field{title}{Legacy systems: Coping with success}
+      \field{volume}{12}
+      \field{year}{1995}
+      \field{pages}{19\bibrangedash 23}
+      \range{pages}{5}
+    \endentry
     \entry{CustomerExpectations}{article}{}
       \name{author}{5}{}{%
         {{hash=65192c1966f54dc40483f4455a68613d}{%
@@ -343,6 +372,31 @@
       \field{labeltitlesource}{title}
       \field{title}{Leading digital: Turning technology into business transformation}
       \field{year}{2014}
+    \endentry
+    \entry{wiwi}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ce625254c2e388f2a4827f32704c14ab}{%
+           family={Wiesche},
+           familyi={W\bibinitperiod},
+           given={Prof.\bibnamedelimi Dr.\bibnamedelimi Manuel},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {TU Dortmund}%
+      }
+      \strng{namehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{fullhash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{bibnamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authorbibnamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authornamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authorfullhash}{ce625254c2e388f2a4827f32704c14ab}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{TU Dortmund}
+      \field{title}{Lecture notes in Digitalisierung}
+      \field{year}{2021}
     \endentry
     \entry{blockchain}{article}{}
       \name{author}{3}{}{%

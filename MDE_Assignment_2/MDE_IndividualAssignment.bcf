@@ -2401,6 +2401,17 @@
     <bcf:citekey order="22" intorder="1">blockchain</bcf:citekey>
     <bcf:citekey order="23" intorder="1">iot</bcf:citekey>
     <bcf:citekey order="24" intorder="1">DDDM</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">legacy</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">wiwi</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">wiwi</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">wiwi</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="28" intorder="2">leadingdigital</bcf:citekey>
+    <bcf:citekey order="28" intorder="3">wiwi</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="29" intorder="2">wiwi</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">leadingdigital</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">wiwi</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
