@@ -152,6 +152,30 @@
       \field{pages}{485\bibrangedash 497}
       \range{pages}{13}
     \endentry
+    \entry{acceptance}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82467528cf8e1868b9b23180fb2d7438}{%
+           family={Marz},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cuvillier Verlag}%
+      }
+      \strng{namehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{fullhash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{bibnamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authorbibnamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authornamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authorfullhash}{82467528cf8e1868b9b23180fb2d7438}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technology Acceptance in the Context of Digital Transformation: Studies on How and Why People Use Connected Objects}
+      \field{year}{2021}
+    \endentry
     \entry{DDDM}{article}{}
       \name{author}{2}{}{%
         {{hash=79fae1f3d670f588a9b7148774f77abf}{%
