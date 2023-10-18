@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  18 OCT 2023 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  18 OCT 2023 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1362,22 +1362,22 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.131 	\newpage
-                [1] [2] [3] [4] [5] [6] [7] [8]
+                [1] [2] [3] [4] [5] [6] [7]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 380.
+ne 392.
 
 
-Overfull \hbox (6.7625pt too wide) in paragraph at lines 381--381
+Overfull \hbox (6.7625pt too wide) in paragraph at lines 393--393
 []\OT1/cmr/m/n/10.95 Sandra Sj^^?ob^^?ack and Amanda Spaak. ``Dig-i-tal Busi-ne
 ss Trans-for-ma-tion in In-cum-bent Firms''.
  []
 
-[9] (MDE_IndividualAssignment.aux)
+[8] (MDE_IndividualAssignment.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1389,9 +1389,9 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34644 strings out of 475385
- 705245 string characters out of 2776907
- 1587295 words of memory out of 3000000
+ 34643 strings out of 475385
+ 705239 string characters out of 2776907
+ 1587293 words of memory out of 3000000
  55488 multiletter control sequences out of 15000+600000
  481692 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1412,9 +1412,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (10 pages, 236947 bytes).
+Output written on MDE_IndividualAssignment.pdf (9 pages, 234730 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
