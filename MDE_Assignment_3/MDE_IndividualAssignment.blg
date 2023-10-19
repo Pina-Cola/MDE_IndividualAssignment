@@ -1,9 +1,9 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
-[99] biber-MSWIN64:340> INFO - === 
-[130] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[234] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
-[248] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
-[248] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
-[248] Biber.pm:130> WARN - The file 'MDE_IndividualAssignment.bcf' does not contain any citations!
-[248] Biber.pm:132> INFO - WARNINGS: 1
+[169] biber-MSWIN64:340> INFO - === 
+[229] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
+[337] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
+[353] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
+[353] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
+[353] Biber.pm:130> WARN - The file 'MDE_IndividualAssignment.bcf' does not contain any citations!
+[353] Biber.pm:132> INFO - WARNINGS: 1
