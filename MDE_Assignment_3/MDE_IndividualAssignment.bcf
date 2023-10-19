@@ -2358,8 +2358,10 @@
     <bcf:citekey order="5" intorder="1">DB2</bcf:citekey>
     <bcf:citekey order="5" intorder="2">DB1</bcf:citekey>
     <bcf:citekey order="5" intorder="3">leadingdigital</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">AM</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">leadingdigital</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">AM2</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">AM3</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">AM1</bcf:citekey>
+    <bcf:citekey order="6" intorder="4">leadingdigital</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

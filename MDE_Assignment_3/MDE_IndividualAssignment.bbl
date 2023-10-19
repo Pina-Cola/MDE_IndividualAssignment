@@ -41,6 +41,67 @@
       \field{title}{Didie Bonnet}
       \field{year}{2023}
     \endentry
+    \entry{AM2}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Brynjolfsson}%
+        {McAfee}%
+      }
+      \strng{namehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{fullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{bibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorbibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authornamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorfullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Race against the machine: How the digital revolution is accelerating innovation, driving productivity, and irreversibly transforming employment and the economy}
+      \field{year}{2011}
+    \endentry
+    \entry{AM3}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WW Norton \& Company}%
+      }
+      \strng{namehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{fullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{bibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorbibnamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authornamehash}{ac2b8f18503c977022c84dc540f6fda9}
+      \strng{authorfullhash}{ac2b8f18503c977022c84dc540f6fda9}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The second machine age: Work, progress, and prosperity in a time of brilliant technologies}
+      \field{year}{2014}
+    \endentry
     \entry{DB1}{misc}{}
       \name{author}{1}{}{%
         {{hash=d6b5467d345c6c34604bdfd21e3cd813}{%
@@ -87,7 +148,7 @@
       \field{title}{George F. Westerman}
       \field{year}{2023}
     \endentry
-    \entry{AM}{article}{}
+    \entry{AM1}{article}{}
       \name{author}{1}{}{%
         {{hash=cc750b678e9c3c5ef16b9fa64495e581}{%
            family={Padhi},

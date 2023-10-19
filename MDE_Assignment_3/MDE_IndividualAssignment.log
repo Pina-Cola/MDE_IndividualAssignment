@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1173,7 +1173,7 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 62.
+(scrartcl)              `sectsty' on input line 64.
 
 \@quotelevel=\count446
 \@quotereset=\count447
@@ -1188,33 +1188,33 @@ LaTeX Warning: Label `def:defdef' multiply defined.
 )
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-Package scrbase Info: activating english \abstractname on input line 98.
-Package scrbase Info: activating english \partname on input line 98.
-Package scrbase Info: activating english \figurename on input line 98.
-Package scrbase Info: activating english \tablename on input line 98.
-Package scrbase Info: activating english \contentsname on input line 98.
-Package scrbase Info: activating english \listfigurename on input line 98.
-Package scrbase Info: activating english \listtablename on input line 98.
-Package scrbase Info: activating english \refname on input line 98.
-Package scrbase Info: activating english \indexname on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+Package scrbase Info: activating english \abstractname on input line 100.
+Package scrbase Info: activating english \partname on input line 100.
+Package scrbase Info: activating english \figurename on input line 100.
+Package scrbase Info: activating english \tablename on input line 100.
+Package scrbase Info: activating english \contentsname on input line 100.
+Package scrbase Info: activating english \listfigurename on input line 100.
+Package scrbase Info: activating english \listtablename on input line 100.
+Package scrbase Info: activating english \refname on input line 100.
+Package scrbase Info: activating english \indexname on input line 100.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1276,7 +1276,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 98.
+Package hyperref Info: Link coloring ON on input line 100.
  (MDE_IndividualAssignment.out) (MDE_IndividualAssignment.out)
 \@outlinefile=\write5
 \openout5 = `MDE_IndividualAssignment.out'.
@@ -1288,7 +1288,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 98.
+(scrartcl)           before \begin{document} on input line 100.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -1312,8 +1312,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 98.
-Package biblatex Info: Reference segment=0 on input line 98.
+Package biblatex Info: Reference section=0 on input line 100.
+Package biblatex Info: Reference segment=0 on input line 100.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1323,19 +1323,19 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 125.
+ne 127.
 
 (MDE_IndividualAssignment.toc)
 \tf@toc=\write6
 \openout6 = `MDE_IndividualAssignment.toc'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129
+LaTeX Font Info:    Trying to load font information for U+msa on input line 131
 .
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129
+LaTeX Font Info:    Trying to load font information for U+msb on input line 131
 .
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1345,45 +1345,45 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 	\newpage
+l.131 	\newpage
                 [1]
 <images/VV.jpg, id=30, 301.125pt x 301.125pt>
 File: images/VV.jpg Graphic file (type jpg)
 <use images/VV.jpg>
-Package pdftex.def Info: images/VV.jpg  used on input line 163.
+Package pdftex.def Info: images/VV.jpg  used on input line 165.
 (pdftex.def)             Requested size: 84.48265pt x 84.48442pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 161--171
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 163--173
 []$[]$ $[]$ 
  []
 
 <images/GW.jpeg, id=35, 481.8pt x 481.8pt>
 File: images/GW.jpeg Graphic file (type jpg)
 <use images/GW.jpeg>
-Package pdftex.def Info: images/GW.jpeg  used on input line 184.
+Package pdftex.def Info: images/GW.jpeg  used on input line 186.
 (pdftex.def)             Requested size: 64.98727pt x 64.98137pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 182--193
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 184--195
 []$[]$ $[]$ 
  []
 
 <images/DB.jpg, id=39, 401.5pt x 408.52625pt>
 File: images/DB.jpg Graphic file (type jpg)
 <use images/DB.jpg>
-Package pdftex.def Info: images/DB.jpg  used on input line 198.
+Package pdftex.def Info: images/DB.jpg  used on input line 200.
 (pdftex.def)             Requested size: 64.98727pt x 66.1198pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 196--207
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 198--209
 []$[]$ $[]$ 
  []
 
 <images/AM.jpg, id=44, 509.65407pt x 303.38344pt>
 File: images/AM.jpg Graphic file (type jpg)
 <use images/AM.jpg>
-Package pdftex.def Info: images/AM.jpg  used on input line 211.
+Package pdftex.def Info: images/AM.jpg  used on input line 213.
 (pdftex.def)             Requested size: 84.48265pt x 50.28757pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 209--220
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 211--222
 []$[]$ $[]$ 
  []
 
@@ -1392,13 +1392,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.254 \end{CountingDefinition}
+l.256 \end{CountingDefinition}
                               
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.254 \end{CountingDefinition}
+l.256 \end{CountingDefinition}
                                <./images/VV.jpg> <./images/GW.jpeg> <./images/D
 B.jpg> <./images/AM.jpg>] [3]
 
@@ -1407,14 +1407,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 299.
-
-
-Overfull \hbox (76.92595pt too wide) in paragraph at lines 300--300
-[]\OT1/cmr/m/n/10.95 Brightline Project Man-age-ment In-sti-tute. \OT1/cmr/m/it
-/10.95 Di-dier Bon-net\OT1/cmr/m/n/10.95 . Web-site: [][]$\OT1/cmtt/m/n/10.95 h
-ttps : / / digitaltransformation2021 .
- []
+ne 301.
 
 [4] (MDE_IndividualAssignment.aux)
 
@@ -1428,13 +1421,13 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34497 strings out of 475385
- 702046 string characters out of 2776907
- 1590677 words of memory out of 3000000
- 55349 multiletter control sequences out of 15000+600000
+ 34505 strings out of 475385
+ 702282 string characters out of 2776907
+ 1590749 words of memory out of 3000000
+ 55355 multiletter control sequences out of 15000+600000
  481450 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,128p,10621b,1479s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
@@ -1459,9 +1452,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (5 pages, 415441 bytes).
+Output written on MDE_IndividualAssignment.pdf (5 pages, 417425 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
