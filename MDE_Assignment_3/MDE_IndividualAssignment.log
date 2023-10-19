@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1185,9 +1185,6 @@ LaTeX Warning: Unused global option(s):
 
 LaTeX Warning: Label `def:defdef' multiply defined.
 
-
-LaTeX Warning: Label `def:defdef' multiply defined.
-
 )
 \openout1 = `MDE_IndividualAssignment.aux'.
 
@@ -1328,37 +1325,90 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 125.
 
-(MDE_IndividualAssignment.toc)
-\tf@toc=\write6
-\openout6 = `MDE_IndividualAssignment.toc'.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129
-.
+(MDE_IndividualAssignment.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+))
+\tf@toc=\write6
+\openout6 = `MDE_IndividualAssignment.toc'.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.129 	\newpage
-                [1] [2]
+                [1]
+<images/VV.jpg, id=32, 301.125pt x 301.125pt>
+File: images/VV.jpg Graphic file (type jpg)
+<use images/VV.jpg>
+Package pdftex.def Info: images/VV.jpg  used on input line 163.
+(pdftex.def)             Requested size: 84.48265pt x 84.48442pt.
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 161--171
+[]$[]$ $[]$ 
+ []
+
+<images/GW.jpeg, id=37, 481.8pt x 481.8pt>
+File: images/GW.jpeg Graphic file (type jpg)
+<use images/GW.jpeg>
+Package pdftex.def Info: images/GW.jpeg  used on input line 184.
+(pdftex.def)             Requested size: 64.98727pt x 64.98137pt.
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 182--193
+[]$[]$ $[]$ 
+ []
+
+<images/DB.jpg, id=39, 401.5pt x 408.52625pt>
+File: images/DB.jpg Graphic file (type jpg)
+<use images/DB.jpg>
+Package pdftex.def Info: images/DB.jpg  used on input line 198.
+(pdftex.def)             Requested size: 84.48265pt x 85.96135pt.
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 196--206
+[]$[]$ $[]$ 
+ []
+
+<images/AM.jpg, id=41, 509.65407pt x 303.38344pt>
+File: images/AM.jpg Graphic file (type jpg)
+<use images/AM.jpg>
+Package pdftex.def Info: images/AM.jpg  used on input line 210.
+(pdftex.def)             Requested size: 84.48265pt x 50.28757pt.
+
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 208--218
+[]$[]$ $[]$ 
+ []
+
+[2
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 ...ntingDefinition}[Definitions]{def:defdef}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.243 ...ntingDefinition}[Definitions]{def:defdef}
+                                                   <./images/VV.jpg> <./images/
+GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>] [3]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 236.
+ne 297.
 
-[3] (MDE_IndividualAssignment.aux)
+[4] (MDE_IndividualAssignment.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1370,25 +1420,40 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34405 strings out of 475385
- 700414 string characters out of 2776907
- 1584309 words of memory out of 3000000
- 55283 multiletter control sequences out of 15000+600000
- 478566 words of font info for 61 fonts, out of 8000000 for 9000
+ 34492 strings out of 475385
+ 701872 string characters out of 2776907
+ 1588572 words of memory out of 3000000
+ 55347 multiletter control sequences out of 15000+600000
+ 482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,128p,10621b,1178s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pin
-ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (4 pages, 114240 bytes).
+ 130i,20n,128p,10621b,1482s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+<C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbxti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/pinak/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/
+pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:
+/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
+x10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on MDE_IndividualAssignment.pdf (5 pages, 409131 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
