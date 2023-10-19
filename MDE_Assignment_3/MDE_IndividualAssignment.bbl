@@ -19,6 +19,100 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{DB2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d3d48f18b16d95202ab157ee3836214f}{%
+           family={Bonnet},
+           familyi={B\bibinitperiod},
+           given={Didie},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3d48f18b16d95202ab157ee3836214f}
+      \strng{fullhash}{d3d48f18b16d95202ab157ee3836214f}
+      \strng{bibnamehash}{d3d48f18b16d95202ab157ee3836214f}
+      \strng{authorbibnamehash}{d3d48f18b16d95202ab157ee3836214f}
+      \strng{authornamehash}{d3d48f18b16d95202ab157ee3836214f}
+      \strng{authorfullhash}{d3d48f18b16d95202ab157ee3836214f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Website: \url{https://www.didierbonnet.com/}, accessed: 19.10.2023}
+      \field{title}{Didie Bonnet}
+      \field{year}{2023}
+    \endentry
+    \entry{DB1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d6b5467d345c6c34604bdfd21e3cd813}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Brightline\bibnamedelimb Project\bibnamedelima Management},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \strng{fullhash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \strng{bibnamehash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \strng{authorbibnamehash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \strng{authornamehash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \strng{authorfullhash}{d6b5467d345c6c34604bdfd21e3cd813}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Website: \url{https://digitaltransformation2021.brightline.org/speakers/didier-bonnet/}, accessed: 19.10.2023}
+      \field{title}{Didier Bonnet}
+      \field{year}{2021}
+    \endentry
+    \entry{GW}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ebc6b3537d7462a6dbef09f1062220e7}{%
+           family={Management},
+           familyi={M\bibinitperiod},
+           given={MIT\bibnamedelimb Sloan\bibnamedelima School},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \strng{fullhash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \strng{bibnamehash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \strng{authorbibnamehash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \strng{authornamehash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \strng{authorfullhash}{ebc6b3537d7462a6dbef09f1062220e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Website: \url{https://mitsloan.mit.edu/faculty/directory/george-f-westerman}, accessed: 19.10.2023}
+      \field{title}{George F. Westerman}
+      \field{year}{2023}
+    \endentry
+    \entry{AM}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cc750b678e9c3c5ef16b9fa64495e581}{%
+           family={Padhi},
+           familyi={P\bibinitperiod},
+           given={Asutosh},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LinkedIn}%
+      }
+      \strng{namehash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \strng{fullhash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \strng{bibnamehash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \strng{authorbibnamehash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \strng{authornamehash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \strng{authorfullhash}{cc750b678e9c3c5ef16b9fa64495e581}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leadership Runwodn}
+      \field{month}{02}
+      \field{title}{Is technology a force for good? A conversation with Andrew McAfee}
+      \field{year}{2023}
+    \endentry
     \entry{VV}{misc}{}
       \name{author}{1}{}{%
         {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
