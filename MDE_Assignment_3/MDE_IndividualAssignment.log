@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1392,22 +1392,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.256 \end{CountingDefinition}
-                              
+l.248 ...ntingDefinition}[Definitions]{def:defdef}
+                                                  
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.256 \end{CountingDefinition}
-                               <./images/VV.jpg> <./images/GW.jpeg> <./images/D
-B.jpg> <./images/AM.jpg>] [3]
+l.248 ...ntingDefinition}[Definitions]{def:defdef}
+                                                   <./images/VV.jpg> <./images/
+GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>] [3]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 301.
+ne 302.
 
 [4] (MDE_IndividualAssignment.aux)
 
@@ -1423,7 +1423,7 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  34505 strings out of 475385
  702282 string characters out of 2776907
- 1590749 words of memory out of 3000000
+ 1589749 words of memory out of 3000000
  55355 multiletter control sequences out of 15000+600000
  481450 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1452,7 +1452,7 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (5 pages, 417425 bytes).
+Output written on MDE_IndividualAssignment.pdf (5 pages, 418368 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
