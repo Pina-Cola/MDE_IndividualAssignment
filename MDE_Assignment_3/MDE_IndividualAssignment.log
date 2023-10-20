@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1422,46 +1422,42 @@ Package pdftex.def Info: images/combi_graph.png  used on input line 310.
 (pdftex.def)             Requested size: 455.24411pt x 173.50047pt.
 [3 <./images/LD_graph.png>] [4 <./images/MD_graph.png> <./images/combi_graph.pn
 g>]
-<images/LD_graph_i.png, id=127, 869.49844pt x 400.49625pt>
+<images/LD_graph_i.png, id=128, 869.49844pt x 400.49625pt>
 File: images/LD_graph_i.png Graphic file (type png)
 <use images/LD_graph_i.png>
 Package pdftex.def Info: images/LD_graph_i.png  used on input line 338.
 (pdftex.def)             Requested size: 455.24411pt x 209.68924pt.
-<images/MD_graph_i.png, id=131, 924.45375pt x 408.77719pt>
+<images/MD_graph_i.png, id=133, 924.45375pt x 408.77719pt>
 File: images/MD_graph_i.png Graphic file (type png)
 <use images/MD_graph_i.png>
 Package pdftex.def Info: images/MD_graph_i.png  used on input line 347.
 (pdftex.def)             Requested size: 455.24411pt x 201.30055pt.
-<images/combi_graph_i.png, id=134, 921.4425pt x 411.03563pt>
+<images/combi_graph_i.png, id=139, 921.4425pt x 411.03563pt>
 File: images/combi_graph_i.png Graphic file (type png)
 <use images/combi_graph_i.png>
-Package pdftex.def Info: images/combi_graph_i.png  used on input line 356.
+Package pdftex.def Info: images/combi_graph_i.png  used on input line 359.
 (pdftex.def)             Requested size: 455.24411pt x 203.07126pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5 <./images/LD_graph_i.png> <./images/MD_graph_i.png>] [6 <./images/combi_grap
-h_i.png>]
+ [5 <./images/LD_graph_i.png> <./images/MD_graph_i.png>] [6 <./images/combi_gra
+ph_i.png>]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 494.
+ne 497.
 
 [7]
-<images/LD_Table.png, id=163, 687.56876pt x 864.22874pt>
+<images/LD_Table.png, id=168, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 507.
+Package pdftex.def Info: images/LD_Table.png  used on input line 510.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
  [8 <./images/LD_Table.png>]
-<images/DM_Table.png, id=173, 384.4764pt x 666.04031pt>
+<images/DM_Table.png, id=178, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 528.
+Package pdftex.def Info: images/DM_Table.png  used on input line 531.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
  [9 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
@@ -1478,7 +1474,7 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  34619 strings out of 475385
  704443 string characters out of 2776907
- 1592873 words of memory out of 3000000
+ 1592877 words of memory out of 3000000
  55439 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1507,9 +1503,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (10 pages, 2403888 bytes).
+Output written on MDE_IndividualAssignment.pdf (10 pages, 2405104 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
+ 294 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
  169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

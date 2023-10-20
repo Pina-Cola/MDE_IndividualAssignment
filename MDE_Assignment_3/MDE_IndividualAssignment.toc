@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {2.1}Top-down approach}{6}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Geographical context}{6}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Market of the companies}{6}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Example for constraints}{6}{section.3}%
+\contentsline {section}{\numberline {3}Constraints on an example}{6}{section.3}%
 \contentsline {section}{References}{7}{section.3}%
 \contentsline {section}{\numberline {A}Example companies in \textit {Leading digital}}{8}{appendix.A}%
 \contentsline {section}{\numberline {B}Example companies in \textit {Digital matrix}}{9}{appendix.B}%
