@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  19 OCT 2023 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1387,35 +1387,44 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 211--222
 []$[]$ $[]$ 
  []
 
+<images/LD_Table.png, id=53, 687.56876pt x 864.22874pt>
+File: images/LD_Table.png Graphic file (type png)
+<use images/LD_Table.png>
+Package pdftex.def Info: images/LD_Table.png  used on input line 268.
+(pdftex.def)             Requested size: 227.62206pt x 286.10626pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/LD_graph.png, id=57, 1609.01125pt x 602.25pt>
+File: images/LD_graph.png Graphic file (type png)
+<use images/LD_graph.png>
+Package pdftex.def Info: images/LD_graph.png  used on input line 275.
+(pdftex.def)             Requested size: 409.71692pt x 153.35576pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [2
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.242 	\item r
-              esults in visible customer interactions and in internal operat...
-
+l.289 ...ntingDefinition}[Definitions]{def:defdef}
+                                                  
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.242 	\item r
-              esults in visible customer interactions and in internal operat...
- <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>]
-<images/LD_Table.png, id=80, 515.67656pt x 648.17157pt>
-File: images/LD_Table.png Graphic file (type png)
-<use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 268.
-(pdftex.def)             Requested size: 227.62206pt x 286.10628pt.
-
-[3 <./images/LD_Table.png>] [4]
+l.289 ...ntingDefinition}[Definitions]{def:defdef}
+                                                   <./images/VV.jpg> <./images/
+GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>] [3 <./images/LD_Table.png> <./ima
+ges/LD_graph.png>] [4]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 338.
+ne 343.
 
 [5] (MDE_IndividualAssignment.aux)
 
@@ -1429,10 +1438,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34517 strings out of 475385
- 702482 string characters out of 2776907
- 1590825 words of memory out of 3000000
- 55363 multiletter control sequences out of 15000+600000
+ 34526 strings out of 475385
+ 702661 string characters out of 2776907
+ 1590898 words of memory out of 3000000
+ 55370 multiletter control sequences out of 15000+600000
  481450 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1456,14 +1465,13 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/
 pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:
 /Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 536095 bytes).
+ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on MDE_IndividualAssignment.pdf (6 pages, 537432 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
