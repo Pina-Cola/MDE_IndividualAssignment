@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1391,25 +1391,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.270 I
-       n the books, he execution of the digitalization was suggested with a ...
-
+l.274 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.270 I
-       n the books, he execution of the digitalization was suggested with a ...
- <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>]
-<images/LD_Table.png, id=82, 687.56876pt x 864.22874pt>
+l.274 
+       <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>
+]
+<images/LD_Table.png, id=84, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 293.
+Package pdftex.def Info: images/LD_Table.png  used on input line 297.
 (pdftex.def)             Requested size: 227.62206pt x 286.10626pt.
-<images/LD_graph.png, id=86, 1609.01125pt x 602.25pt>
+<images/LD_graph.png, id=88, 1609.01125pt x 602.25pt>
 File: images/LD_graph.png Graphic file (type png)
 <use images/LD_graph.png>
-Package pdftex.def Info: images/LD_graph.png  used on input line 300.
+Package pdftex.def Info: images/LD_graph.png  used on input line 304.
 (pdftex.def)             Requested size: 409.71692pt x 153.35576pt.
 
 
@@ -1422,7 +1421,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 368.
+ne 390.
 
 [5] (MDE_IndividualAssignment.aux)
 
@@ -1438,11 +1437,11 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  34541 strings out of 475385
  702992 string characters out of 2776907
- 1590954 words of memory out of 3000000
+ 1591952 words of memory out of 3000000
  55383 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,21n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
@@ -1467,9 +1466,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 540460 bytes).
+Output written on MDE_IndividualAssignment.pdf (6 pages, 541333 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
+ 198 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
