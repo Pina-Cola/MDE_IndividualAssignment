@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  20 OCT 2023 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1335,7 +1335,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 7.
+
+)
 \tf@toc=\write6
 \openout6 = `MDE_IndividualAssignment.toc'.
 
@@ -1346,7 +1351,7 @@ been already used, duplicate ignored
                    \relax 
 l.131 	\newpage
                 [1]
-<images/VV.jpg, id=34, 301.125pt x 301.125pt>
+<images/VV.jpg, id=38, 301.125pt x 301.125pt>
 File: images/VV.jpg Graphic file (type jpg)
 <use images/VV.jpg>
 Package pdftex.def Info: images/VV.jpg  used on input line 165.
@@ -1356,7 +1361,7 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 163--173
 []$[]$ $[]$ 
  []
 
-<images/GW.jpeg, id=39, 481.8pt x 481.8pt>
+<images/GW.jpeg, id=43, 481.8pt x 481.8pt>
 File: images/GW.jpeg Graphic file (type jpg)
 <use images/GW.jpeg>
 Package pdftex.def Info: images/GW.jpeg  used on input line 186.
@@ -1366,7 +1371,7 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 184--195
 []$[]$ $[]$ 
  []
 
-<images/DB.jpg, id=43, 401.5pt x 408.52625pt>
+<images/DB.jpg, id=47, 401.5pt x 408.52625pt>
 File: images/DB.jpg Graphic file (type jpg)
 <use images/DB.jpg>
 Package pdftex.def Info: images/DB.jpg  used on input line 200.
@@ -1376,7 +1381,7 @@ Overfull \hbox (2.43332pt too wide) in paragraph at lines 198--209
 []$[]$ $[]$ 
  []
 
-<images/AM.jpg, id=48, 509.65407pt x 303.38344pt>
+<images/AM.jpg, id=52, 509.65407pt x 303.38344pt>
 File: images/AM.jpg Graphic file (type jpg)
 <use images/AM.jpg>
 Package pdftex.def Info: images/AM.jpg  used on input line 213.
@@ -1400,30 +1405,37 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
 l.274 
        <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>
 ]
-<images/LD_Table.png, id=84, 687.56876pt x 864.22874pt>
-File: images/LD_Table.png Graphic file (type png)
-<use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 297.
-(pdftex.def)             Requested size: 227.62206pt x 286.10626pt.
-<images/LD_graph.png, id=88, 1609.01125pt x 602.25pt>
+<images/LD_graph.png, id=90, 1609.01125pt x 602.25pt>
 File: images/LD_graph.png Graphic file (type png)
 <use images/LD_graph.png>
-Package pdftex.def Info: images/LD_graph.png  used on input line 304.
+Package pdftex.def Info: images/LD_graph.png  used on input line 296.
 (pdftex.def)             Requested size: 409.71692pt x 153.35576pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./images/LD_Table.png>] [4 <./images/LD_graph.png>]
+ [3 <./images/LD_graph.png>] [4]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 390.
+ne 382.
 
-[5] (MDE_IndividualAssignment.aux)
+[5]
+<images/LD_Table.png, id=116, 687.56876pt x 864.22874pt>
+File: images/LD_Table.png Graphic file (type png)
+<use images/LD_Table.png>
+Package pdftex.def Info: images/LD_Table.png  used on input line 395.
+(pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
+ [6 <./images/LD_Table.png>]
+<images/DM_Table.png, id=126, 384.4764pt x 666.04031pt>
+File: images/DM_Table.png Graphic file (type png)
+<use images/DM_Table.png>
+Package pdftex.def Info: images/DM_Table.png  used on input line 416.
+(pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
+ [7 <./images/DM_Table.png>]
+(MDE_IndividualAssignment.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1435,10 +1447,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34541 strings out of 475385
- 702992 string characters out of 2776907
- 1591952 words of memory out of 3000000
- 55383 multiletter control sequences out of 15000+600000
+ 34562 strings out of 475385
+ 703290 string characters out of 2776907
+ 1592157 words of memory out of 3000000
+ 55398 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1466,9 +1478,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 541333 bytes).
+Output written on MDE_IndividualAssignment.pdf (8 pages, 2307656 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
