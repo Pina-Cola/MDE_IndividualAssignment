@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {2.2}Geographical context}{8}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Market of the companies}{8}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Constraints on an example}{8}{section.3}%
-\contentsline {section}{References}{9}{section.3}%
-\contentsline {section}{\numberline {A}Example companies in \textit {Leading digital}}{10}{appendix.A}%
-\contentsline {section}{\numberline {B}Example companies in \textit {Digital matrix}}{11}{appendix.B}%
+\contentsline {section}{References}{10}{section.3}%
+\contentsline {section}{\numberline {A}Example companies in \textit {Leading digital}}{11}{appendix.A}%
+\contentsline {section}{\numberline {B}Example companies in \textit {Digital matrix}}{12}{appendix.B}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
