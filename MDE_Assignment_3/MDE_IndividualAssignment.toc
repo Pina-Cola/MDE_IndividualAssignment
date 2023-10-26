@@ -2,7 +2,7 @@
 \contentsline {subsection}{\numberline {1.1}Top-down approach}{3}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Example extraction}{3}{subsection.1.2}%
 \contentsline {subsection}{\numberline {1.3}Geographical context}{3}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Market of the companies}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.4}Market of the companies}{6}{subsection.1.4}%
 \contentsline {section}{\numberline {2}Consequences of assumptions in digital transformation}{8}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Top-down approach}{8}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Geographical context}{8}{subsection.2.2}%

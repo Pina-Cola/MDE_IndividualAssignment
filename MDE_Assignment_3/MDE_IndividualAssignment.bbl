@@ -169,6 +169,28 @@
       \field{title}{The second machine age: Work, progress, and prosperity in a time of brilliant technologies}
       \field{year}{2014}
     \endentry
+    \entry{WDCR}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6d6fde02af823d5ea0cbb6681724bda4}{%
+           family={Center},
+           familyi={C\bibinitperiod},
+           given={IMD\bibnamedelimb World\bibnamedelima Competitive},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \strng{fullhash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \strng{bibnamehash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \strng{authorbibnamehash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \strng{authornamehash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \strng{authorfullhash}{6d6fde02af823d5ea0cbb6681724bda4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available at: \url{https://static.poder360.com.br/2022/09/Digital-Ranking-IMD-2022.pdf}, accessed: 26.10.2023}
+      \field{title}{IMD World Digital Competitiveness Ranking 2022}
+      \field{year}{2022}
+    \endentry
     \entry{basis2}{article}{}
       \name{author}{1}{}{%
         {{hash=6644485be86c15e6049f62088906c64f}{%
@@ -343,6 +365,45 @@
       \field{year}{1981}
       \field{pages}{51\bibrangedash 59}
       \range{pages}{9}
+    \endentry
+    \entry{consumerbehaviour}{article}{}
+      \name{author}{3}{}{%
+        {{hash=233baca8aad47ee7f3187f07cf177fbf}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9953f3ffe068ba02c3a097abaa48a697}{%
+           family={Beriain},
+           familyi={B\bibinitperiod},
+           given={MJ},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cac8134893ec5135ff31cb7560c8f5dd}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={TR},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \strng{fullhash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \strng{bibnamehash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \strng{authorbibnamehash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \strng{authornamehash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \strng{authorfullhash}{6d55f652c1f05891b9eba622ba4df7d6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Quality and Preference}
+      \field{number}{1}
+      \field{title}{Socio-economic factors affecting consumer behaviour for United States and Spanish beef under different information scenarios}
+      \field{volume}{24}
+      \field{year}{2012}
+      \field{pages}{30\bibrangedash 39}
+      \range{pages}{10}
     \endentry
     \entry{nms}{article}{}
       \name{author}{5}{}{%
