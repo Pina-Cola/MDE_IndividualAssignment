@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{tdbu2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=77700bd917c3e9e37038163c3fbaede4}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Tefi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{77700bd917c3e9e37038163c3fbaede4}
+      \strng{fullhash}{77700bd917c3e9e37038163c3fbaede4}
+      \strng{bibnamehash}{77700bd917c3e9e37038163c3fbaede4}
+      \strng{authorbibnamehash}{77700bd917c3e9e37038163c3fbaede4}
+      \strng{authornamehash}{77700bd917c3e9e37038163c3fbaede4}
+      \strng{authorfullhash}{77700bd917c3e9e37038163c3fbaede4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Top-Down Vs. Bottom-Up Approach: A Comprehensive Guide}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cascade.app/blog/top-down-vs-bottom-up#:~:text=The%20top%2Ddown%20approach%20can,ability%20to%20adapt%20and%20evolve.
+      \endverb
+      \verb{url}
+      \verb https://www.cascade.app/blog/top-down-vs-bottom-up#:~:text=The%20top%2Ddown%20approach%20can,ability%20to%20adapt%20and%20evolve.
+      \endverb
+    \endentry
     \entry{riic1}{article}{}
       \name{author}{1}{}{%
         {{hash=4d8ea05162a3039a96dfe38854653a85}{%
