@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1464,19 +1464,19 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 601.
+ne 576.
 
 [10] [11]
-<images/LD_Table.png, id=228, 687.56876pt x 864.22874pt>
+<images/LD_Table.png, id=229, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 614.
+Package pdftex.def Info: images/LD_Table.png  used on input line 589.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
  [12 <./images/LD_Table.png>]
-<images/DM_Table.png, id=239, 384.4764pt x 666.04031pt>
+<images/DM_Table.png, id=240, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 635.
+Package pdftex.def Info: images/DM_Table.png  used on input line 610.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
  [13 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
@@ -1493,7 +1493,7 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 Here is how much of TeX's memory you used:
  34805 strings out of 475385
  708479 string characters out of 2776907
- 1604651 words of memory out of 3000000
+ 1605651 words of memory out of 3000000
  55598 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1523,9 +1523,9 @@ ic/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (14 pages, 2567757 bytes).
+Output written on MDE_IndividualAssignment.pdf (14 pages, 2568146 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
+ 366 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
