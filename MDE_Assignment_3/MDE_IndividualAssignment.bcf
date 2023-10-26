@@ -2403,10 +2403,13 @@
     <bcf:citekey order="35" intorder="2">nms</bcf:citekey>
     <bcf:citekey order="36" intorder="1">tdbu2</bcf:citekey>
     <bcf:citekey order="37" intorder="1">consumerbehaviour</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">leadingdigital</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">leadingdigital</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">lagom</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">nms</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">WDCR</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">leadingdigital</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">leadingdigital</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">digitalmatrix</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -9,6 +9,6 @@
 \contentsline {subsection}{\numberline {2.3}Market of the companies}{9}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Constraints on an example}{9}{section.3}%
 \contentsline {section}{References}{10}{section.3}%
-\contentsline {section}{\numberline {A}Example companies in \textit {Leading digital}}{12}{appendix.A}%
-\contentsline {section}{\numberline {B}Example companies in \textit {Digital matrix}}{13}{appendix.B}%
+\contentsline {section}{\numberline {A}Example companies in \textit {Leading digital}}{11}{appendix.A}%
+\contentsline {section}{\numberline {B}Example companies in \textit {Digital matrix}}{12}{appendix.B}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
