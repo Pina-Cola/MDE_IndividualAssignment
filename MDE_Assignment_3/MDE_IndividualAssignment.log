@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 17:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1444,44 +1444,39 @@ Package pdftex.def Info: images/IMD2.png  used on input line 358.
 <images/LD_graph_i.png, id=158, 869.49844pt x 396.7322pt>
 File: images/LD_graph_i.png Graphic file (type png)
 <use images/LD_graph_i.png>
-Package pdftex.def Info: images/LD_graph_i.png  used on input line 406.
+Package pdftex.def Info: images/LD_graph_i.png  used on input line 404.
 (pdftex.def)             Requested size: 455.24411pt x 207.71848pt.
- [6]
+ [6 <./images/LD_graph_i.png>]
 <images/MD_graph_i.png, id=172, 924.45375pt x 398.23781pt>
 File: images/MD_graph_i.png Graphic file (type png)
 <use images/MD_graph_i.png>
-Package pdftex.def Info: images/MD_graph_i.png  used on input line 415.
+Package pdftex.def Info: images/MD_graph_i.png  used on input line 413.
 (pdftex.def)             Requested size: 455.24411pt x 196.11049pt.
 <images/combi_graph_i.png, id=178, 921.4425pt x 398.99063pt>
 File: images/combi_graph_i.png Graphic file (type png)
 <use images/combi_graph_i.png>
-Package pdftex.def Info: images/combi_graph_i.png  used on input line 427.
+Package pdftex.def Info: images/combi_graph_i.png  used on input line 425.
 (pdftex.def)             Requested size: 455.24411pt x 197.12047pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7 <./images/LD_graph_i.png> <./images/MD_graph_i.png>] [8 <./images/combi_grap
-h_i.png>]
+[7 <./images/MD_graph_i.png> <./images/combi_graph_i.png>] [8]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 565.
+ne 563.
 
 [9]
 <images/LD_Table.png, id=210, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 578.
+Package pdftex.def Info: images/LD_Table.png  used on input line 576.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
  [10 <./images/LD_Table.png>]
 <images/DM_Table.png, id=220, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 599.
+Package pdftex.def Info: images/DM_Table.png  used on input line 597.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
  [11 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
@@ -1528,7 +1523,7 @@ ic/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (12 pages, 2558960 bytes).
+Output written on MDE_IndividualAssignment.pdf (12 pages, 2558627 bytes).
 PDF statistics:
  345 PDF objects out of 1000 (max. 8388607)
  57 named destinations out of 1000 (max. 500000)
