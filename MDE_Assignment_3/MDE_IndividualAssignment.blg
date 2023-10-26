@@ -1,18 +1,18 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
-[97] biber-MSWIN64:340> INFO - === 
-[128] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[234] Biber.pm:978> INFO - Found 18 citekeys in bib section 0
-[248] Biber.pm:4401> INFO - Processing section 0
-[259] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
-[307] bibtex.pm:1713> INFO - LaTeX decoding ...
+[101] biber-MSWIN64:340> INFO - === 
+[132] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
+[239] Biber.pm:978> INFO - Found 18 citekeys in bib section 0
+[253] Biber.pm:4401> INFO - Processing section 0
+[264] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[306] bibtex.pm:1713> INFO - LaTeX decoding ...
 [356] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[455] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[455] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[455] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[455] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[456] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[456] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[456] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[456] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
 [471] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
 [478] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
-[478] Biber.pm:130> WARN - Duplicate entry key: 'agile' in file 'references.bib', skipping ...
-[478] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'ai' and 'AI' in file 'references.bib'
-[478] Biber.pm:132> INFO - WARNINGS: 2
+[479] Biber.pm:130> WARN - Duplicate entry key: 'agile' in file 'references.bib', skipping ...
+[479] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'ai' and 'AI' in file 'references.bib'
+[479] Biber.pm:132> INFO - WARNINGS: 2
