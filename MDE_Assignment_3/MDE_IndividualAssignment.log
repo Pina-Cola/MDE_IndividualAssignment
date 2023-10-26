@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1430,44 +1430,45 @@ File: images/combi_graph.png Graphic file (type png)
 Package pdftex.def Info: images/combi_graph.png  used on input line 332.
 (pdftex.def)             Requested size: 455.24411pt x 166.71132pt.
  [4 <./images/LD_graph.png> <./images/MD_graph.png> <./images/combi_graph.png>]
-<images/LD_graph_i.png, id=139, 869.49844pt x 396.7322pt>
+ [5]
+<images/LD_graph_i.png, id=151, 869.49844pt x 396.7322pt>
 File: images/LD_graph_i.png Graphic file (type png)
 <use images/LD_graph_i.png>
-Package pdftex.def Info: images/LD_graph_i.png  used on input line 366.
+Package pdftex.def Info: images/LD_graph_i.png  used on input line 391.
 (pdftex.def)             Requested size: 455.24411pt x 207.71848pt.
- [5 <./images/LD_graph_i.png>]
-<images/MD_graph_i.png, id=152, 924.45375pt x 398.23781pt>
+<images/MD_graph_i.png, id=156, 924.45375pt x 398.23781pt>
 File: images/MD_graph_i.png Graphic file (type png)
 <use images/MD_graph_i.png>
-Package pdftex.def Info: images/MD_graph_i.png  used on input line 375.
+Package pdftex.def Info: images/MD_graph_i.png  used on input line 400.
 (pdftex.def)             Requested size: 455.24411pt x 196.11049pt.
-<images/combi_graph_i.png, id=158, 921.4425pt x 398.99063pt>
+ [6 <./images/LD_graph_i.png>]
+<images/combi_graph_i.png, id=169, 921.4425pt x 398.99063pt>
 File: images/combi_graph_i.png Graphic file (type png)
 <use images/combi_graph_i.png>
-Package pdftex.def Info: images/combi_graph_i.png  used on input line 387.
+Package pdftex.def Info: images/combi_graph_i.png  used on input line 412.
 (pdftex.def)             Requested size: 455.24411pt x 197.12047pt.
- [6 <./images/MD_graph_i.png> <./images/combi_graph_i.png>] [7]
+ [7 <./images/MD_graph_i.png> <./images/combi_graph_i.png>] [8]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 525.
+ne 550.
 
-[8]
-<images/LD_Table.png, id=190, 687.56876pt x 864.22874pt>
+[9]
+<images/LD_Table.png, id=199, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 538.
+Package pdftex.def Info: images/LD_Table.png  used on input line 563.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
- [9 <./images/LD_Table.png>]
-<images/DM_Table.png, id=200, 384.4764pt x 666.04031pt>
+ [10 <./images/LD_Table.png>]
+<images/DM_Table.png, id=209, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 559.
+Package pdftex.def Info: images/DM_Table.png  used on input line 584.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
- [10 <./images/DM_Table.png>]
+ [11 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1480,10 +1481,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34759 strings out of 475385
- 707358 string characters out of 2776907
- 1596327 words of memory out of 3000000
- 55564 multiletter control sequences out of 15000+600000
+ 34768 strings out of 475385
+ 707613 string characters out of 2776907
+ 1597407 words of memory out of 3000000
+ 55570 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1507,13 +1508,14 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/
 pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:
 /Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (11 pages, 2412824 bytes).
+ts/cm/cmsy10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on MDE_IndividualAssignment.pdf (12 pages, 2426729 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
