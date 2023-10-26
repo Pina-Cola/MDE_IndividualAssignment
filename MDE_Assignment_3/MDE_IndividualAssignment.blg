@@ -1,18 +1,18 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
-[99] biber-MSWIN64:340> INFO - === 
+[97] biber-MSWIN64:340> INFO - === 
 [130] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[237] Biber.pm:978> INFO - Found 9 citekeys in bib section 0
-[250] Biber.pm:4401> INFO - Processing section 0
-[262] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[236] Biber.pm:978> INFO - Found 11 citekeys in bib section 0
+[249] Biber.pm:4401> INFO - Processing section 0
+[260] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
 [310] bibtex.pm:1713> INFO - LaTeX decoding ...
-[351] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[415] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[415] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[415] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[415] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[422] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
-[425] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
-[425] Biber.pm:130> WARN - Duplicate entry key: 'agile' in file 'references.bib', skipping ...
-[426] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'ai' and 'AI' in file 'references.bib'
-[426] Biber.pm:132> INFO - WARNINGS: 2
+[353] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[426] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[427] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[427] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[427] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[436] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
+[441] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl
+[441] Biber.pm:130> WARN - Duplicate entry key: 'agile' in file 'references.bib', skipping ...
+[441] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'ai' and 'AI' in file 'references.bib'
+[441] Biber.pm:132> INFO - WARNINGS: 2
