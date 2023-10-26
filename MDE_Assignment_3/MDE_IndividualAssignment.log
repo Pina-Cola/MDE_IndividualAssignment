@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,6 +337,14 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 \CommentStream=\write3
 
 Excluding comment 'comment')
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count280
+\float@exts=\toks25
+\float@box=\box56
+\@float@everytoks=\toks26
+\@floatcapt=\box57
+)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
@@ -384,11 +392,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count280
+\c@section@level=\count281
 )
 \@linkdim=\dimen168
-\Hy@linkcounter=\count281
-\Hy@pagecounter=\count282
+\Hy@linkcounter=\count282
+\Hy@pagecounter=\count283
  (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -399,7 +407,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count283
+\Hy@SavedSpaceFactor=\count284
  (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -412,7 +420,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count284
+\c@Hy@tempcnt=\count285
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
@@ -429,7 +437,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count285
+\Fld@menulength=\count286
 \Field@Width=\dimen170
 \Fld@charsize=\dimen171
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -444,9 +452,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count286
-\c@Item=\count287
-\c@Hfootnote=\count288
+\Hy@abspage=\count287
+\c@Item=\count288
+\c@Hfootnote=\count289
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -457,8 +465,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count289
-\c@bookmark@seq@number=\count290
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -473,61 +481,61 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count291
+\lrq@indent=\count292
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count292
-\c@listtotal=\count293
-\c@listcount=\count294
-\c@liststart=\count295
-\c@liststop=\count296
-\c@citecount=\count297
-\c@citetotal=\count298
-\c@multicitecount=\count299
-\c@multicitetotal=\count300
-\c@instcount=\count301
-\c@maxnames=\count302
-\c@minnames=\count303
-\c@maxitems=\count304
-\c@minitems=\count305
-\c@citecounter=\count306
-\c@maxcitecounter=\count307
-\c@savedcitecounter=\count308
-\c@uniquelist=\count309
-\c@uniquename=\count310
-\c@refsection=\count311
-\c@refsegment=\count312
-\c@maxextratitle=\count313
-\c@maxextratitleyear=\count314
-\c@maxextraname=\count315
-\c@maxextradate=\count316
-\c@maxextraalpha=\count317
-\c@abbrvpenalty=\count318
-\c@highnamepenalty=\count319
-\c@lownamepenalty=\count320
-\c@maxparens=\count321
-\c@parenlevel=\count322
-\blx@tempcnta=\count323
-\blx@tempcntb=\count324
-\blx@tempcntc=\count325
-\c@blx@maxsection=\count326
-\blx@maxsegment@0=\count327
-\blx@notetype=\count328
-\blx@parenlevel@text=\count329
-\blx@parenlevel@foot=\count330
-\blx@sectionciteorder@0=\count331
-\blx@sectionciteorderinternal@0=\count332
-\blx@entrysetcounter=\count333
-\blx@biblioinstance=\count334
+\c@tabx@nest=\count293
+\c@listtotal=\count294
+\c@listcount=\count295
+\c@liststart=\count296
+\c@liststop=\count297
+\c@citecount=\count298
+\c@citetotal=\count299
+\c@multicitecount=\count300
+\c@multicitetotal=\count301
+\c@instcount=\count302
+\c@maxnames=\count303
+\c@minnames=\count304
+\c@maxitems=\count305
+\c@minitems=\count306
+\c@citecounter=\count307
+\c@maxcitecounter=\count308
+\c@savedcitecounter=\count309
+\c@uniquelist=\count310
+\c@uniquename=\count311
+\c@refsection=\count312
+\c@refsegment=\count313
+\c@maxextratitle=\count314
+\c@maxextratitleyear=\count315
+\c@maxextraname=\count316
+\c@maxextradate=\count317
+\c@maxextraalpha=\count318
+\c@abbrvpenalty=\count319
+\c@highnamepenalty=\count320
+\c@lownamepenalty=\count321
+\c@maxparens=\count322
+\c@parenlevel=\count323
+\blx@tempcnta=\count324
+\blx@tempcntb=\count325
+\blx@tempcntc=\count326
+\c@blx@maxsection=\count327
+\blx@maxsegment@0=\count328
+\blx@notetype=\count329
+\blx@parenlevel@text=\count330
+\blx@parenlevel@foot=\count331
+\blx@sectionciteorder@0=\count332
+\blx@sectionciteorderinternal@0=\count333
+\blx@entrysetcounter=\count334
+\blx@biblioinstance=\count335
 \labelnumberwidth=\skip71
 \labelalphawidth=\skip72
 \biblabelsep=\skip73
@@ -539,9 +547,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read2
 \blx@bcfout=\write4
 \blx@langwohyphens=\language79
-\c@mincomprange=\count335
-\c@maxcomprange=\count336
-\c@mincompwidth=\count337
+\c@mincomprange=\count336
+\c@maxcomprange=\count337
+\c@mincompwidth=\count338
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -550,74 +558,74 @@ File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count338
-\c@savedafterword=\count339
-\c@annotator=\count340
-\c@savedannotator=\count341
-\c@author=\count342
-\c@savedauthor=\count343
-\c@bookauthor=\count344
-\c@savedbookauthor=\count345
-\c@commentator=\count346
-\c@savedcommentator=\count347
-\c@editor=\count348
-\c@savededitor=\count349
-\c@editora=\count350
-\c@savededitora=\count351
-\c@editorb=\count352
-\c@savededitorb=\count353
-\c@editorc=\count354
-\c@savededitorc=\count355
-\c@foreword=\count356
-\c@savedforeword=\count357
-\c@holder=\count358
-\c@savedholder=\count359
-\c@introduction=\count360
-\c@savedintroduction=\count361
-\c@namea=\count362
-\c@savednamea=\count363
-\c@nameb=\count364
-\c@savednameb=\count365
-\c@namec=\count366
-\c@savednamec=\count367
-\c@translator=\count368
-\c@savedtranslator=\count369
-\c@shortauthor=\count370
-\c@savedshortauthor=\count371
-\c@shorteditor=\count372
-\c@savedshorteditor=\count373
-\c@labelname=\count374
-\c@savedlabelname=\count375
-\c@institution=\count376
-\c@savedinstitution=\count377
-\c@lista=\count378
-\c@savedlista=\count379
-\c@listb=\count380
-\c@savedlistb=\count381
-\c@listc=\count382
-\c@savedlistc=\count383
-\c@listd=\count384
-\c@savedlistd=\count385
-\c@liste=\count386
-\c@savedliste=\count387
-\c@listf=\count388
-\c@savedlistf=\count389
-\c@location=\count390
-\c@savedlocation=\count391
-\c@organization=\count392
-\c@savedorganization=\count393
-\c@origlocation=\count394
-\c@savedoriglocation=\count395
-\c@origpublisher=\count396
-\c@savedorigpublisher=\count397
-\c@publisher=\count398
-\c@savedpublisher=\count399
-\c@language=\count400
-\c@savedlanguage=\count401
-\c@origlanguage=\count402
-\c@savedoriglanguage=\count403
-\c@pageref=\count404
-\c@savedpageref=\count405
+\c@afterword=\count339
+\c@savedafterword=\count340
+\c@annotator=\count341
+\c@savedannotator=\count342
+\c@author=\count343
+\c@savedauthor=\count344
+\c@bookauthor=\count345
+\c@savedbookauthor=\count346
+\c@commentator=\count347
+\c@savedcommentator=\count348
+\c@editor=\count349
+\c@savededitor=\count350
+\c@editora=\count351
+\c@savededitora=\count352
+\c@editorb=\count353
+\c@savededitorb=\count354
+\c@editorc=\count355
+\c@savededitorc=\count356
+\c@foreword=\count357
+\c@savedforeword=\count358
+\c@holder=\count359
+\c@savedholder=\count360
+\c@introduction=\count361
+\c@savedintroduction=\count362
+\c@namea=\count363
+\c@savednamea=\count364
+\c@nameb=\count365
+\c@savednameb=\count366
+\c@namec=\count367
+\c@savednamec=\count368
+\c@translator=\count369
+\c@savedtranslator=\count370
+\c@shortauthor=\count371
+\c@savedshortauthor=\count372
+\c@shorteditor=\count373
+\c@savedshorteditor=\count374
+\c@labelname=\count375
+\c@savedlabelname=\count376
+\c@institution=\count377
+\c@savedinstitution=\count378
+\c@lista=\count379
+\c@savedlista=\count380
+\c@listb=\count381
+\c@savedlistb=\count382
+\c@listc=\count383
+\c@savedlistc=\count384
+\c@listd=\count385
+\c@savedlistd=\count386
+\c@liste=\count387
+\c@savedliste=\count388
+\c@listf=\count389
+\c@savedlistf=\count390
+\c@location=\count391
+\c@savedlocation=\count392
+\c@organization=\count393
+\c@savedorganization=\count394
+\c@origlocation=\count395
+\c@savedoriglocation=\count396
+\c@origpublisher=\count397
+\c@savedorigpublisher=\count398
+\c@publisher=\count399
+\c@savedpublisher=\count400
+\c@language=\count401
+\c@savedlanguage=\count402
+\c@origlanguage=\count403
+\c@savedoriglanguage=\count404
+\c@pageref=\count405
+\c@savedpageref=\count406
 \shorthandwidth=\skip79
 \shortjournalwidth=\skip80
 \shortserieswidth=\skip81
@@ -642,19 +650,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
-\c@textcitecount=\count406
-\c@textcitetotal=\count407
-\c@textcitemaxnames=\count408
-\c@biburlbigbreakpenalty=\count409
-\c@biburlbreakpenalty=\count410
-\c@biburlnumpenalty=\count411
-\c@biburlucpenalty=\count412
-\c@biburllcpenalty=\count413
+\c@textcitecount=\count407
+\c@textcitetotal=\count408
+\c@textcitemaxnames=\count409
+\c@biburlbigbreakpenalty=\count410
+\c@biburlbreakpenalty=\count411
+\c@biburlnumpenalty=\count412
+\c@biburlucpenalty=\count413
+\c@biburllcpenalty=\count414
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count414
+\c@smartand=\count415
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -668,8 +676,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count415
-\c@bbx:relatedtotal=\count416
+\c@bbx:relatedcount=\count416
+\c@bbx:relatedtotal=\count417
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -704,8 +712,8 @@ Package: expl3 2022-09-28 L3 programming layer (loader)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count417
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count418
+\l__pdf_internal_box=\box58
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2022-09-28 L3 programming layer (loader) 
@@ -733,14 +741,14 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count418
+\c@abspage=\count419
 Package zref Info: New property: abspage on input line 65.
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip93
-\c@mdf@globalstyle@cnt=\count419
+\c@mdf@globalstyle@cnt=\count420
 \mdf@skipabove@length=\skip94
 \mdf@skipbelow@length=\skip95
 \mdf@leftmargin@length=\skip96
@@ -788,7 +796,7 @@ sty
 y
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks25
+\pgfutil@everybye=\toks27
 \pgfutil@tempdima=\dimen172
 \pgfutil@tempdimb=\dimen173
 
@@ -796,7 +804,7 @@ y
 -common-lists.tex))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
-\pgfutil@abb=\box57
+\pgfutil@abb=\box59
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
@@ -833,12 +841,12 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks26
-\pgfkeys@temptoks=\toks27
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
-\pgfkeys@tmptoks=\toks28
+\pgfkeys@tmptoks=\toks30
 ))
 \pgf@x=\dimen176
 \pgf@y=\dimen177
@@ -852,14 +860,14 @@ filtered.code.tex
 \pgf@yd=\dimen185
 \w@pgf@writea=\write5
 \r@pgf@reada=\read3
-\c@pgf@counta=\count420
-\c@pgf@countb=\count421
-\c@pgf@countc=\count422
-\c@pgf@countd=\count423
-\t@pgf@toka=\toks29
-\t@pgf@tokb=\toks30
-\t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count424
+\c@pgf@counta=\count421
+\c@pgf@countb=\count422
+\c@pgf@countc=\count423
+\c@pgf@countd=\count424
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count425
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -878,8 +886,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count425
-\pgfsyssoftpath@bigbuffer@items=\count426
+\pgfsyssoftpath@smallbuffer@items=\count426
+\pgfsyssoftpath@bigbuffer@items=\count427
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -898,11 +906,11 @@ code.tex)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
 \pgfmath@dimen=\dimen186
-\pgfmath@count=\count427
-\pgfmath@box=\box58
-\pgfmath@toks=\toks32
-\pgfmath@stack@operand=\toks33
-\pgfmath@stack@operation=\toks34
+\pgfmath@count=\count428
+\pgfmath@box=\box60
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex
@@ -924,7 +932,7 @@ ions.misc.code.tex)
 ions.integerarithmetics.code.tex)))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count428
+\c@pgfmathroundto@lastzeros=\count429
 ))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
@@ -961,10 +969,10 @@ File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count429
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count430
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
@@ -999,8 +1007,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 eshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen266
-\pgf@sys@shading@range@num=\count430
-\pgf@shadingcount=\count431
+\pgf@sys@shading@range@num=\count431
+\pgf@shadingcount=\count432
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -1009,7 +1017,7 @@ File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box62
+\pgfexternal@startupbox=\box64
 ))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
@@ -1030,7 +1038,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box63
+\pgfnodeparttextbox=\box65
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
@@ -1063,8 +1071,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 .tex)
 \pgffor@iter=\dimen269
 \pgffor@skip=\dimen270
-\pgffor@stack=\toks35
-\pgffor@toks=\toks36
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -1073,7 +1081,7 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count432
+\pgf@plot@mark@count=\count433
 \pgfplotmarksize=\dimen271
 )
 \tikz@lastx=\dimen272
@@ -1084,23 +1092,23 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@lastmovetoy=\dimen277
 \tikzleveldistance=\dimen278
 \tikzsiblingdistance=\dimen279
-\tikz@figbox=\box64
-\tikz@figbox@bg=\box65
-\tikz@tempbox=\box66
-\tikz@tempbox@bg=\box67
-\tikztreelevel=\count433
-\tikznumberofchildren=\count434
-\tikznumberofcurrentchild=\count435
-\tikz@fig@count=\count436
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count434
+\tikznumberofchildren=\count435
+\tikznumberofcurrentchild=\count436
+\tikz@fig@count=\count437
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count437
-\pgfmatrixcurrentcolumn=\count438
-\pgf@matrix@numberofcolumns=\count439
+\pgfmatrixcurrentrow=\count438
+\pgfmatrixcurrentcolumn=\count439
+\pgf@matrix@numberofcolumns=\count440
 )
-\tikz@expandcount=\count440
+\tikz@expandcount=\count441
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
@@ -1109,11 +1117,11 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
 File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 )
-\mdf@frametitlebox=\box68
-\mdf@footnotebox=\box69
-\mdf@splitbox@one=\box70
-\mdf@splitbox@two=\box71
-\mdf@splitbox@save=\box72
+\mdf@frametitlebox=\box70
+\mdf@footnotebox=\box71
+\mdf@splitbox@one=\box72
+\mdf@splitbox@two=\box73
+\mdf@splitbox@save=\box74
 \mdfsplitboxwidth=\skip133
 \mdfsplitboxtotalwidth=\skip134
 \mdfsplitboxheight=\skip135
@@ -1141,16 +1149,16 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 \mdf@horizontalspaceofbox=\skip157
 \mdfsubtitleheight=\skip158
 \mdfsubsubtitleheight=\skip159
-\c@mdfcountframes=\count441
+\c@mdfcountframes=\count442
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- success******
 
-\mdf@envdepth=\count442
-\c@mdf@env@i=\count443
-\c@mdf@env@ii=\count444
-\c@mdf@zref@counter=\count445
+\mdf@envdepth=\count443
+\c@mdf@env@i=\count444
+\c@mdf@env@ii=\count445
+\c@mdf@zref@counter=\count446
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
@@ -1177,10 +1185,10 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 65.
+(scrartcl)              `sectsty' on input line 66.
 
-\@quotelevel=\count446
-\@quotereset=\count447
+\@quotelevel=\count447
+\@quotereset=\count448
 
 LaTeX Warning: Unused global option(s):
     [a4].
@@ -1188,33 +1196,33 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-Package scrbase Info: activating english \abstractname on input line 101.
-Package scrbase Info: activating english \partname on input line 101.
-Package scrbase Info: activating english \figurename on input line 101.
-Package scrbase Info: activating english \tablename on input line 101.
-Package scrbase Info: activating english \contentsname on input line 101.
-Package scrbase Info: activating english \listfigurename on input line 101.
-Package scrbase Info: activating english \listtablename on input line 101.
-Package scrbase Info: activating english \refname on input line 101.
-Package scrbase Info: activating english \indexname on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+Package scrbase Info: activating english \abstractname on input line 102.
+Package scrbase Info: activating english \partname on input line 102.
+Package scrbase Info: activating english \figurename on input line 102.
+Package scrbase Info: activating english \tablename on input line 102.
+Package scrbase Info: activating english \contentsname on input line 102.
+Package scrbase Info: activating english \listfigurename on input line 102.
+Package scrbase Info: activating english \listtablename on input line 102.
+Package scrbase Info: activating english \refname on input line 102.
+Package scrbase Info: activating english \indexname on input line 102.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1254,17 +1262,17 @@ Package scrbase Info: activating english \indexname on input line 101.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count448
+\scratchcounter=\count449
 \scratchdimen=\dimen280
-\scratchbox=\box73
-\nofMPsegments=\count449
-\nofMParguments=\count450
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count451
+\scratchbox=\box75
+\nofMPsegments=\count450
+\nofMParguments=\count451
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count452
 \MPscratchDim=\dimen281
-\MPnumerator=\count452
-\makeMPintoPDFobject=\count453
-\everyMPtoPDFconversion=\toks38
+\MPnumerator=\count453
+\makeMPintoPDFobject=\count454
+\everyMPtoPDFconversion=\toks40
 )
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1276,7 +1284,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 101.
+Package hyperref Info: Link coloring ON on input line 102.
  (MDE_IndividualAssignment.out) (MDE_IndividualAssignment.out)
 \@outlinefile=\write6
 \openout6 = `MDE_IndividualAssignment.out'.
@@ -1288,14 +1296,14 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 101.
+(scrartcl)           before \begin{document} on input line 102.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count454
+\BKM@id=\count455
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1312,8 +1320,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 101.
-Package biblatex Info: Reference segment=0 on input line 101.
+Package biblatex Info: Reference section=0 on input line 102.
+Package biblatex Info: Reference segment=0 on input line 102.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1323,7 +1331,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 128.
+ne 129.
 
 (MDE_IndividualAssignment.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
@@ -1349,45 +1357,45 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.132 	\newpage
+l.133 	\newpage
                 [1]
 <images/VV.jpg, id=48, 301.125pt x 301.125pt>
 File: images/VV.jpg Graphic file (type jpg)
 <use images/VV.jpg>
-Package pdftex.def Info: images/VV.jpg  used on input line 166.
+Package pdftex.def Info: images/VV.jpg  used on input line 167.
 (pdftex.def)             Requested size: 84.48265pt x 84.48442pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 164--174
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 165--175
 []$[]$ $[]$ 
  []
 
 <images/GW.jpeg, id=53, 481.8pt x 481.8pt>
 File: images/GW.jpeg Graphic file (type jpg)
 <use images/GW.jpeg>
-Package pdftex.def Info: images/GW.jpeg  used on input line 187.
+Package pdftex.def Info: images/GW.jpeg  used on input line 188.
 (pdftex.def)             Requested size: 64.98727pt x 64.98137pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 185--196
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 186--197
 []$[]$ $[]$ 
  []
 
 <images/DB.jpg, id=57, 401.5pt x 408.52625pt>
 File: images/DB.jpg Graphic file (type jpg)
 <use images/DB.jpg>
-Package pdftex.def Info: images/DB.jpg  used on input line 201.
+Package pdftex.def Info: images/DB.jpg  used on input line 202.
 (pdftex.def)             Requested size: 64.98727pt x 66.1198pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 199--210
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 200--211
 []$[]$ $[]$ 
  []
 
 <images/AM.jpg, id=62, 509.65407pt x 303.38344pt>
 File: images/AM.jpg Graphic file (type jpg)
 <use images/AM.jpg>
-Package pdftex.def Info: images/AM.jpg  used on input line 214.
+Package pdftex.def Info: images/AM.jpg  used on input line 215.
 (pdftex.def)             Requested size: 84.48265pt x 50.28757pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 212--223
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 213--224
 []$[]$ $[]$ 
  []
 
@@ -1396,81 +1404,68 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.275 
+l.276 
       
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.275 
+l.276 
        <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>
 ]
-<images/LD_graph.png, id=106, 929.72343pt x 348.55219pt>
+<images/LD_graph.png, id=106, 929.72343pt x 333.49594pt>
 File: images/LD_graph.png Graphic file (type png)
 <use images/LD_graph.png>
-Package pdftex.def Info: images/LD_graph.png  used on input line 313.
-(pdftex.def)             Requested size: 455.24411pt x 170.66972pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/MD_graph.png, id=110, 926.71219pt x 345.54094pt>
+Package pdftex.def Info: images/LD_graph.png  used on input line 314.
+(pdftex.def)             Requested size: 455.24411pt x 163.2974pt.
+ [3]
+<images/MD_graph.png, id=117, 898.85812pt x 334.24875pt>
 File: images/MD_graph.png Graphic file (type png)
 <use images/MD_graph.png>
-Package pdftex.def Info: images/MD_graph.png  used on input line 322.
-(pdftex.def)             Requested size: 455.24411pt x 169.74889pt.
-[3]
-<images/combi_graph.png, id=121, 908.64468pt x 346.29375pt>
+Package pdftex.def Info: images/MD_graph.png  used on input line 323.
+(pdftex.def)             Requested size: 455.24411pt x 169.28645pt.
+<images/combi_graph.png, id=120, 908.64468pt x 332.74312pt>
 File: images/combi_graph.png Graphic file (type png)
 <use images/combi_graph.png>
-Package pdftex.def Info: images/combi_graph.png  used on input line 331.
-(pdftex.def)             Requested size: 455.24411pt x 173.50047pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Excluding 'comment' comment. [4 <./images/LD_graph.png> <./images/MD_graph.png>
-]
-<images/LD_graph_i.png, id=140, 869.49844pt x 400.49625pt>
+Package pdftex.def Info: images/combi_graph.png  used on input line 332.
+(pdftex.def)             Requested size: 455.24411pt x 166.71132pt.
+ [4 <./images/LD_graph.png> <./images/MD_graph.png> <./images/combi_graph.png>]
+<images/LD_graph_i.png, id=139, 869.49844pt x 396.7322pt>
 File: images/LD_graph_i.png Graphic file (type png)
 <use images/LD_graph_i.png>
-Package pdftex.def Info: images/LD_graph_i.png  used on input line 380.
-(pdftex.def)             Requested size: 455.24411pt x 209.68924pt.
-<images/MD_graph_i.png, id=145, 924.45375pt x 408.77719pt>
+Package pdftex.def Info: images/LD_graph_i.png  used on input line 366.
+(pdftex.def)             Requested size: 455.24411pt x 207.71848pt.
+ [5 <./images/LD_graph_i.png>]
+<images/MD_graph_i.png, id=152, 924.45375pt x 398.23781pt>
 File: images/MD_graph_i.png Graphic file (type png)
 <use images/MD_graph_i.png>
-Package pdftex.def Info: images/MD_graph_i.png  used on input line 389.
-(pdftex.def)             Requested size: 455.24411pt x 201.30055pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/combi_graph_i.png, id=151, 921.4425pt x 411.03563pt>
+Package pdftex.def Info: images/MD_graph_i.png  used on input line 375.
+(pdftex.def)             Requested size: 455.24411pt x 196.11049pt.
+<images/combi_graph_i.png, id=158, 921.4425pt x 398.99063pt>
 File: images/combi_graph_i.png Graphic file (type png)
 <use images/combi_graph_i.png>
-Package pdftex.def Info: images/combi_graph_i.png  used on input line 401.
-(pdftex.def)             Requested size: 455.24411pt x 203.07126pt.
-[5 <./images/combi_graph.png> <./images/LD_graph_i.png>] [6 <./images/MD_graph_
-i.png> <./images/combi_graph_i.png>] [7]
+Package pdftex.def Info: images/combi_graph_i.png  used on input line 387.
+(pdftex.def)             Requested size: 455.24411pt x 197.12047pt.
+ [6 <./images/MD_graph_i.png> <./images/combi_graph_i.png>] [7]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 539.
+ne 525.
 
 [8]
-<images/LD_Table.png, id=186, 687.56876pt x 864.22874pt>
+<images/LD_Table.png, id=190, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 552.
+Package pdftex.def Info: images/LD_Table.png  used on input line 538.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
  [9 <./images/LD_Table.png>]
-<images/DM_Table.png, id=196, 384.4764pt x 666.04031pt>
+<images/DM_Table.png, id=200, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 573.
+Package pdftex.def Info: images/DM_Table.png  used on input line 559.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
  [10 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
@@ -1485,10 +1480,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34693 strings out of 475385
- 706135 string characters out of 2776907
- 1593979 words of memory out of 3000000
- 55503 multiletter control sequences out of 15000+600000
+ 34759 strings out of 475385
+ 707358 string characters out of 2776907
+ 1596327 words of memory out of 3000000
+ 55564 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1516,9 +1511,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (11 pages, 2411767 bytes).
+Output written on MDE_IndividualAssignment.pdf (11 pages, 2412824 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 320 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

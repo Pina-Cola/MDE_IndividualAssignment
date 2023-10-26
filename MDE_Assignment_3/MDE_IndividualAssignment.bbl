@@ -234,6 +234,28 @@
       \field{title}{George F. Westerman}
       \field{year}{2023}
     \endentry
+    \entry{UN}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2d661e9167bd3a268ea03a3ee152926c}{%
+           family={Nations},
+           familyi={N\bibinitperiod},
+           given={United},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{fullhash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{bibnamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authorbibnamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authornamehash}{2d661e9167bd3a268ea03a3ee152926c}
+      \strng{authorfullhash}{2d661e9167bd3a268ea03a3ee152926c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available at: \url{https://www.un.org/en/development/desa/policy/wesp/wesp_current/2014wesp_country_classification.pdf}, accessed: 26.10.2023}
+      \field{title}{Country classification}
+      \field{year}{2014}
+    \endentry
     \entry{AM1}{article}{}
       \name{author}{1}{}{%
         {{hash=cc750b678e9c3c5ef16b9fa64495e581}{%
