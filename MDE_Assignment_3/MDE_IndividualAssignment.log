@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,10 +333,14 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
-y
+)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
@@ -469,7 +473,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 33.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
@@ -533,7 +537,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibparsep=\skip77
 \bibhang=\skip78
 \blx@bcfin=\read2
-\blx@bcfout=\write3
+\blx@bcfout=\write4
 \blx@langwohyphens=\language79
 \c@mincomprange=\count335
 \c@maxcomprange=\count336
@@ -846,7 +850,7 @@ filtered.code.tex
 \pgf@yc=\dimen183
 \pgf@xd=\dimen184
 \pgf@yd=\dimen185
-\w@pgf@writea=\write4
+\w@pgf@writea=\write5
 \r@pgf@reada=\read3
 \c@pgf@counta=\count420
 \c@pgf@countb=\count421
@@ -1173,7 +1177,7 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 64.
+(scrartcl)              `sectsty' on input line 65.
 
 \@quotelevel=\count446
 \@quotereset=\count447
@@ -1184,33 +1188,33 @@ LaTeX Warning: Unused global option(s):
 (MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-Package scrbase Info: activating english \abstractname on input line 100.
-Package scrbase Info: activating english \partname on input line 100.
-Package scrbase Info: activating english \figurename on input line 100.
-Package scrbase Info: activating english \tablename on input line 100.
-Package scrbase Info: activating english \contentsname on input line 100.
-Package scrbase Info: activating english \listfigurename on input line 100.
-Package scrbase Info: activating english \listtablename on input line 100.
-Package scrbase Info: activating english \refname on input line 100.
-Package scrbase Info: activating english \indexname on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+Package scrbase Info: activating english \abstractname on input line 101.
+Package scrbase Info: activating english \partname on input line 101.
+Package scrbase Info: activating english \figurename on input line 101.
+Package scrbase Info: activating english \tablename on input line 101.
+Package scrbase Info: activating english \contentsname on input line 101.
+Package scrbase Info: activating english \listfigurename on input line 101.
+Package scrbase Info: activating english \listtablename on input line 101.
+Package scrbase Info: activating english \refname on input line 101.
+Package scrbase Info: activating english \indexname on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1272,10 +1276,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 100.
+Package hyperref Info: Link coloring ON on input line 101.
  (MDE_IndividualAssignment.out) (MDE_IndividualAssignment.out)
-\@outlinefile=\write5
-\openout5 = `MDE_IndividualAssignment.out'.
+\@outlinefile=\write6
+\openout6 = `MDE_IndividualAssignment.out'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -1284,7 +1288,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 100.
+(scrartcl)           before \begin{document} on input line 101.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -1303,13 +1307,13 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `MDE_IndividualAssignment.bcf'.
+\openout4 = `MDE_IndividualAssignment.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 100.
-Package biblatex Info: Reference segment=0 on input line 100.
+Package biblatex Info: Reference section=0 on input line 101.
+Package biblatex Info: Reference segment=0 on input line 101.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1319,7 +1323,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 127.
+ne 128.
 
 (MDE_IndividualAssignment.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
@@ -1337,53 +1341,53 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 12.
 
 )
-\tf@toc=\write6
-\openout6 = `MDE_IndividualAssignment.toc'.
+\tf@toc=\write7
+\openout7 = `MDE_IndividualAssignment.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.131 	\newpage
+l.132 	\newpage
                 [1]
 <images/VV.jpg, id=48, 301.125pt x 301.125pt>
 File: images/VV.jpg Graphic file (type jpg)
 <use images/VV.jpg>
-Package pdftex.def Info: images/VV.jpg  used on input line 165.
+Package pdftex.def Info: images/VV.jpg  used on input line 166.
 (pdftex.def)             Requested size: 84.48265pt x 84.48442pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 163--173
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 164--174
 []$[]$ $[]$ 
  []
 
 <images/GW.jpeg, id=53, 481.8pt x 481.8pt>
 File: images/GW.jpeg Graphic file (type jpg)
 <use images/GW.jpeg>
-Package pdftex.def Info: images/GW.jpeg  used on input line 186.
+Package pdftex.def Info: images/GW.jpeg  used on input line 187.
 (pdftex.def)             Requested size: 64.98727pt x 64.98137pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 184--195
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 185--196
 []$[]$ $[]$ 
  []
 
 <images/DB.jpg, id=57, 401.5pt x 408.52625pt>
 File: images/DB.jpg Graphic file (type jpg)
 <use images/DB.jpg>
-Package pdftex.def Info: images/DB.jpg  used on input line 200.
+Package pdftex.def Info: images/DB.jpg  used on input line 201.
 (pdftex.def)             Requested size: 64.98727pt x 66.1198pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 198--209
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 199--210
 []$[]$ $[]$ 
  []
 
 <images/AM.jpg, id=62, 509.65407pt x 303.38344pt>
 File: images/AM.jpg Graphic file (type jpg)
 <use images/AM.jpg>
-Package pdftex.def Info: images/AM.jpg  used on input line 213.
+Package pdftex.def Info: images/AM.jpg  used on input line 214.
 (pdftex.def)             Requested size: 84.48265pt x 50.28757pt.
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 211--222
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 212--223
 []$[]$ $[]$ 
  []
 
@@ -1392,19 +1396,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.274 
+l.275 
       
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.274 
+l.275 
        <./images/VV.jpg> <./images/GW.jpeg> <./images/DB.jpg> <./images/AM.jpg>
 ]
 <images/LD_graph.png, id=106, 929.72343pt x 348.55219pt>
 File: images/LD_graph.png Graphic file (type png)
 <use images/LD_graph.png>
-Package pdftex.def Info: images/LD_graph.png  used on input line 312.
+Package pdftex.def Info: images/LD_graph.png  used on input line 313.
 (pdftex.def)             Requested size: 455.24411pt x 170.66972pt.
 
 
@@ -1413,37 +1417,38 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/MD_graph.png, id=110, 926.71219pt x 345.54094pt>
 File: images/MD_graph.png Graphic file (type png)
 <use images/MD_graph.png>
-Package pdftex.def Info: images/MD_graph.png  used on input line 321.
+Package pdftex.def Info: images/MD_graph.png  used on input line 322.
 (pdftex.def)             Requested size: 455.24411pt x 169.74889pt.
 [3]
 <images/combi_graph.png, id=121, 908.64468pt x 346.29375pt>
 File: images/combi_graph.png Graphic file (type png)
 <use images/combi_graph.png>
-Package pdftex.def Info: images/combi_graph.png  used on input line 330.
+Package pdftex.def Info: images/combi_graph.png  used on input line 331.
 (pdftex.def)             Requested size: 455.24411pt x 173.50047pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <./images/LD_graph.png> <./images/MD_graph.png>]
-<images/LD_graph_i.png, id=136, 869.49844pt x 400.49625pt>
+Excluding 'comment' comment. [4 <./images/LD_graph.png> <./images/MD_graph.png>
+]
+<images/LD_graph_i.png, id=140, 869.49844pt x 400.49625pt>
 File: images/LD_graph_i.png Graphic file (type png)
 <use images/LD_graph_i.png>
-Package pdftex.def Info: images/LD_graph_i.png  used on input line 358.
+Package pdftex.def Info: images/LD_graph_i.png  used on input line 380.
 (pdftex.def)             Requested size: 455.24411pt x 209.68924pt.
-<images/MD_graph_i.png, id=141, 924.45375pt x 408.77719pt>
+<images/MD_graph_i.png, id=145, 924.45375pt x 408.77719pt>
 File: images/MD_graph_i.png Graphic file (type png)
 <use images/MD_graph_i.png>
-Package pdftex.def Info: images/MD_graph_i.png  used on input line 367.
+Package pdftex.def Info: images/MD_graph_i.png  used on input line 389.
 (pdftex.def)             Requested size: 455.24411pt x 201.30055pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/combi_graph_i.png, id=147, 921.4425pt x 411.03563pt>
+<images/combi_graph_i.png, id=151, 921.4425pt x 411.03563pt>
 File: images/combi_graph_i.png Graphic file (type png)
 <use images/combi_graph_i.png>
-Package pdftex.def Info: images/combi_graph_i.png  used on input line 379.
+Package pdftex.def Info: images/combi_graph_i.png  used on input line 401.
 (pdftex.def)             Requested size: 455.24411pt x 203.07126pt.
 [5 <./images/combi_graph.png> <./images/LD_graph_i.png>] [6 <./images/MD_graph_
 i.png> <./images/combi_graph_i.png>] [7]
@@ -1453,19 +1458,19 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 517.
+ne 539.
 
 [8]
-<images/LD_Table.png, id=182, 687.56876pt x 864.22874pt>
+<images/LD_Table.png, id=186, 687.56876pt x 864.22874pt>
 File: images/LD_Table.png Graphic file (type png)
 <use images/LD_Table.png>
-Package pdftex.def Info: images/LD_Table.png  used on input line 530.
+Package pdftex.def Info: images/LD_Table.png  used on input line 552.
 (pdftex.def)             Requested size: 364.19667pt x 457.76212pt.
  [9 <./images/LD_Table.png>]
-<images/DM_Table.png, id=192, 384.4764pt x 666.04031pt>
+<images/DM_Table.png, id=196, 384.4764pt x 666.04031pt>
 File: images/DM_Table.png Graphic file (type png)
 <use images/DM_Table.png>
-Package pdftex.def Info: images/DM_Table.png  used on input line 551.
+Package pdftex.def Info: images/DM_Table.png  used on input line 573.
 (pdftex.def)             Requested size: 318.66948pt x 552.04094pt.
  [10 <./images/DM_Table.png>]
 (MDE_IndividualAssignment.aux)
@@ -1480,10 +1485,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34632 strings out of 475385
- 704742 string characters out of 2776907
- 1593001 words of memory out of 3000000
- 55448 multiletter control sequences out of 15000+600000
+ 34693 strings out of 475385
+ 706135 string characters out of 2776907
+ 1593979 words of memory out of 3000000
+ 55503 multiletter control sequences out of 15000+600000
  482051 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,20n,128p,10621b,1481s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1511,9 +1516,9 @@ ts/cm/cmti10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on MDE_IndividualAssignment.pdf (11 pages, 2410131 bytes).
+Output written on MDE_IndividualAssignment.pdf (11 pages, 2411767 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
