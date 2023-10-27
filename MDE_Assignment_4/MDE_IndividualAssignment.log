@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  26 OCT 2023 19:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 OCT 2023 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1351,9 +1351,14 @@ been already used, duplicate ignored
 l.130 	\newpage
                 [1] [2]
 
-LaTeX Warning: Empty bibliography on input line 224.
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 224.
 
-(MDE_IndividualAssignment.aux)
+[3] (MDE_IndividualAssignment.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1365,13 +1370,13 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34185 strings out of 475385
- 695870 string characters out of 2776907
- 1583056 words of memory out of 3000000
- 55068 multiletter control sequences out of 15000+600000
- 478220 words of font info for 60 fonts, out of 8000000 for 9000
+ 34402 strings out of 475385
+ 700263 string characters out of 2776907
+ 1583122 words of memory out of 3000000
+ 55281 multiletter control sequences out of 15000+600000
+ 478566 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,20n,128p,10621b,1090s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,20n,128p,10621b,1248s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -1379,10 +1384,11 @@ ublic/amsfonts/cm/cmcsc10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pinak/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (3 pages, 90233 bytes).
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pin
+ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on MDE_IndividualAssignment.pdf (4 pages, 112670 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

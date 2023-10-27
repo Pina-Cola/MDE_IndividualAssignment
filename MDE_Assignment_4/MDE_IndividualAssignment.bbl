@@ -16,5 +16,44 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{disruptive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3da7682b29d4d6393fa7147964546309}{%
+           family={Furr},
+           familyi={F\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d2e559a8404b713a94026f666caa280d}{%
+           family={Shipilov},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School Press}%
+      }
+      \strng{namehash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \strng{fullhash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \strng{bibnamehash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \strng{authorbibnamehash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \strng{authornamehash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \strng{authorfullhash}{9effdb56909cd2988bbc1f13f83b7fa7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review}
+      \field{number}{4}
+      \field{title}{Digital doesn't have to be disruptive: the best results can come from adaptation rather than reinvention}
+      \field{volume}{97}
+      \field{year}{2019}
+      \field{pages}{94\bibrangedash 104}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
