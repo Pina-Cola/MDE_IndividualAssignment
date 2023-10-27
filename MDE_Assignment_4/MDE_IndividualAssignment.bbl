@@ -132,6 +132,55 @@
       \field{pages}{13\bibrangedash 66}
       \range{pages}{54}
     \endentry
+    \entry{DTOT}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1c7b8e6c50c348fbab836656a8d41f09}{%
+           family={Wessel},
+           familyi={W\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b3a00a1597cbdf206cb87120f3593486}{%
+           family={Baiyere},
+           familyi={B\bibinitperiod},
+           given={Abayomi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=38c7eace21dcdbfe1a291ba5c79731b9}{%
+           family={Ologeanu-Taddei},
+           familyi={O\bibinithyphendelim T\bibinitperiod},
+           given={Roxana},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e33e34637d1bc4f5b1c9fbd0ff1f318b}{%
+           family={Cha},
+           familyi={C\bibinitperiod},
+           given={Jonghyuk},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d3036275ecb4ca8ef585a76203141901}{%
+           family={Blegind-Jensen},
+           familyi={B\bibinithyphendelim J\bibinitperiod},
+           given={Tina},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Information Systems}%
+      }
+      \strng{namehash}{71f3e74f65166177eb50aaf539bee3c0}
+      \strng{fullhash}{ee9af8da106a7fe6a4f5fd01895f032f}
+      \strng{bibnamehash}{ee9af8da106a7fe6a4f5fd01895f032f}
+      \strng{authorbibnamehash}{ee9af8da106a7fe6a4f5fd01895f032f}
+      \strng{authornamehash}{71f3e74f65166177eb50aaf539bee3c0}
+      \strng{authorfullhash}{ee9af8da106a7fe6a4f5fd01895f032f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Association for Information Systems}
+      \field{number}{1}
+      \field{title}{Unpacking the difference between digital transformation and IT-enabled organizational transformation}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{102\bibrangedash 129}
+      \range{pages}{28}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

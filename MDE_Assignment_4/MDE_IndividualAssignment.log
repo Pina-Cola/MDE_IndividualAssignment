@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 OCT 2023 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 OCT 2023 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1360,7 +1360,13 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 311.
+ne 336.
+
+
+Overfull \hbox (2.26808pt too wide) in paragraph at lines 337--337
+[]\OT1/cmr/m/n/10.95 Lauri Wes-sel, Abay-omi Baiyere, Rox-ana Ologeanu-Taddei, 
+Jonghyuk Cha, and Tina Blegind-
+ []
 
 [5] (MDE_IndividualAssignment.aux)
 
@@ -1377,10 +1383,10 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34439 strings out of 475385
- 701057 string characters out of 2776907
- 1587544 words of memory out of 3000000
- 55309 multiletter control sequences out of 15000+600000
+ 34446 strings out of 475385
+ 701202 string characters out of 2776907
+ 1585671 words of memory out of 3000000
+ 55314 multiletter control sequences out of 15000+600000
  479167 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,19n,128p,10621b,1368s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1395,9 +1401,9 @@ a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pin
 ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
 Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 140117 bytes).
+Output written on MDE_IndividualAssignment.pdf (6 pages, 143578 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
