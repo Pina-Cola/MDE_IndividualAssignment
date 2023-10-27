@@ -105,6 +105,33 @@
       \field{pages}{73\bibrangedash 73}
       \range{pages}{1}
     \endentry
+    \entry{vial}{article}{}
+      \name{author}{1}{}{%
+        {{hash=60a6941037f282e2810f835ee7af79df}{%
+           family={Vial},
+           familyi={V\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{60a6941037f282e2810f835ee7af79df}
+      \strng{fullhash}{60a6941037f282e2810f835ee7af79df}
+      \strng{bibnamehash}{60a6941037f282e2810f835ee7af79df}
+      \strng{authorbibnamehash}{60a6941037f282e2810f835ee7af79df}
+      \strng{authornamehash}{60a6941037f282e2810f835ee7af79df}
+      \strng{authorfullhash}{60a6941037f282e2810f835ee7af79df}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Managing Digital Transformation}
+      \field{title}{Understanding digital transformation: A review and a research agenda}
+      \field{year}{2021}
+      \field{pages}{13\bibrangedash 66}
+      \range{pages}{54}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
