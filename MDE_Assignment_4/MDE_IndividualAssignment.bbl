@@ -19,6 +19,33 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{5myths}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2d25dc29c6ed76207d5aac3d1030a394}{%
+           family={Andriole},
+           familyi={A\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Institute of Technology, Cambridge, MA}%
+      }
+      \strng{namehash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \strng{fullhash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \strng{bibnamehash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \strng{authorbibnamehash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \strng{authornamehash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \strng{authorfullhash}{2d25dc29c6ed76207d5aac3d1030a394}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT sloan management review}
+      \field{number}{3}
+      \field{title}{Five myths about digital transformation}
+      \field{volume}{58}
+      \field{year}{2017}
+    \endentry
     \entry{disruptive}{article}{}
       \name{author}{2}{}{%
         {{hash=3da7682b29d4d6393fa7147964546309}{%
