@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'MDE_IndividualAssignment.blg'
 [98] biber-MSWIN64:340> INFO - === 
-[130] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
-[234] Biber.pm:978> INFO - Found 2 citekeys in bib section 0
-[248] Biber.pm:4401> INFO - Processing section 0
-[261] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
-[305] bibtex.pm:1713> INFO - LaTeX decoding ...
-[327] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[368] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[368] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[368] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[128] Biber.pm:418> INFO - Reading 'MDE_IndividualAssignment.bcf'
+[230] Biber.pm:978> INFO - Found 3 citekeys in bib section 0
+[244] Biber.pm:4401> INFO - Processing section 0
+[255] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[297] bibtex.pm:1713> INFO - LaTeX decoding ...
+[325] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[366] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[367] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[367] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[367] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
 [370] bbl.pm:654> INFO - Writing 'MDE_IndividualAssignment.bbl' with encoding 'UTF-8'
 [371] bbl.pm:757> INFO - Output to MDE_IndividualAssignment.bbl

@@ -80,6 +80,31 @@
       \field{pages}{94\bibrangedash 104}
       \range{pages}{11}
     \endentry
+    \entry{venkat}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0875b7164b17a847eeb853e6703a4da4}{%
+           family={Venkatraman},
+           familyi={V\bibinitperiod},
+           given={Nramanujam},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0875b7164b17a847eeb853e6703a4da4}
+      \strng{fullhash}{0875b7164b17a847eeb853e6703a4da4}
+      \strng{bibnamehash}{0875b7164b17a847eeb853e6703a4da4}
+      \strng{authorbibnamehash}{0875b7164b17a847eeb853e6703a4da4}
+      \strng{authornamehash}{0875b7164b17a847eeb853e6703a4da4}
+      \strng{authorfullhash}{0875b7164b17a847eeb853e6703a4da4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sloan management review}
+      \field{title}{IT-enabled business transformation: from automation to business scope redefinition}
+      \field{volume}{35}
+      \field{year}{1994}
+      \field{pages}{73\bibrangedash 73}
+      \range{pages}{1}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

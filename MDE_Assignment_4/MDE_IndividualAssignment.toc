@@ -1,6 +1,7 @@
 \contentsline {section}{\numberline {1}Definitions of Digital Transformation}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}\textit {Digital doesn't have to be disruptive}}{2}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}\textit {Five myths about digital transformation}}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}\textit {IT-enabled business transformation: from automation to business scope redefinition}}{3}{subsection.1.3}%
 \contentsline {section}{\numberline {2}Section 2}{3}{section.2}%
 \contentsline {section}{\numberline {3}Section 3}{3}{section.3}%
 \contentsline {section}{References}{4}{section.3}%
