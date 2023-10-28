@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  28 OCT 2023 13:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  28 OCT 2023 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,10 +333,14 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
-y
+)) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)
+(C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
@@ -469,7 +473,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 33.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
@@ -533,7 +537,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibparsep=\skip77
 \bibhang=\skip78
 \blx@bcfin=\read2
-\blx@bcfout=\write3
+\blx@bcfout=\write4
 \blx@langwohyphens=\language79
 \c@mincomprange=\count335
 \c@maxcomprange=\count336
@@ -846,7 +850,7 @@ filtered.code.tex
 \pgf@yc=\dimen183
 \pgf@xd=\dimen184
 \pgf@yd=\dimen185
-\w@pgf@writea=\write4
+\w@pgf@writea=\write5
 \r@pgf@reada=\read3
 \c@pgf@counta=\count420
 \c@pgf@countb=\count421
@@ -1173,7 +1177,7 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 62.
+(scrartcl)              `sectsty' on input line 63.
 
 \@quotelevel=\count446
 \@quotereset=\count447
@@ -1181,40 +1185,36 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(MDE_IndividualAssignment.aux
-
-LaTeX Warning: Label `def:defdef' multiply defined.
-
-)
+(MDE_IndividualAssignment.aux)
 \openout1 = `MDE_IndividualAssignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-Package scrbase Info: activating english \abstractname on input line 99.
-Package scrbase Info: activating english \partname on input line 99.
-Package scrbase Info: activating english \figurename on input line 99.
-Package scrbase Info: activating english \tablename on input line 99.
-Package scrbase Info: activating english \contentsname on input line 99.
-Package scrbase Info: activating english \listfigurename on input line 99.
-Package scrbase Info: activating english \listtablename on input line 99.
-Package scrbase Info: activating english \refname on input line 99.
-Package scrbase Info: activating english \indexname on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+Package scrbase Info: activating english \abstractname on input line 100.
+Package scrbase Info: activating english \partname on input line 100.
+Package scrbase Info: activating english \figurename on input line 100.
+Package scrbase Info: activating english \tablename on input line 100.
+Package scrbase Info: activating english \contentsname on input line 100.
+Package scrbase Info: activating english \listfigurename on input line 100.
+Package scrbase Info: activating english \listtablename on input line 100.
+Package scrbase Info: activating english \refname on input line 100.
+Package scrbase Info: activating english \indexname on input line 100.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1276,10 +1276,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 99.
+Package hyperref Info: Link coloring ON on input line 100.
  (MDE_IndividualAssignment.out) (MDE_IndividualAssignment.out)
-\@outlinefile=\write5
-\openout5 = `MDE_IndividualAssignment.out'.
+\@outlinefile=\write6
+\openout6 = `MDE_IndividualAssignment.out'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -1288,7 +1288,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 99.
+(scrartcl)           before \begin{document} on input line 100.
 
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -1307,13 +1307,13 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `MDE_IndividualAssignment.bcf'.
+\openout4 = `MDE_IndividualAssignment.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MDE_IndividualAssignment.bbl' found.
  (MDE_IndividualAssignment.bbl)
-Package biblatex Info: Reference section=0 on input line 99.
-Package biblatex Info: Reference segment=0 on input line 99.
+Package biblatex Info: Reference section=0 on input line 100.
+Package biblatex Info: Reference segment=0 on input line 100.
  [1
 
 {C:/Users/pinak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -1323,7 +1323,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 126.
+ne 127.
 
 (MDE_IndividualAssignment.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
@@ -1336,47 +1336,54 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 (C:\Users\pinak\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@toc=\write6
-\openout6 = `MDE_IndividualAssignment.toc'.
+\tf@toc=\write7
+\openout7 = `MDE_IndividualAssignment.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.130 	\newpage
+l.131 	\newpage
                 [1]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 156.
+(Font)              using `OT1/cmss/bx/n' instead on input line 157.
 
 [2]
 <images/vial.png, id=63, 924.45375pt x 398.23781pt>
 File: images/vial.png Graphic file (type png)
 <use images/vial.png>
-Package pdftex.def Info: images/vial.png  used on input line 241.
+Package pdftex.def Info: images/vial.png  used on input line 242.
 (pdftex.def)             Requested size: 455.24411pt x 196.11049pt.
- [3 <./images/vial.png>] [4]
+ [3 <./images/vial.png>] Excluding 'comment' comment.
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 341--365
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 382--401
+[]$[]$ $[]$ 
+ []
+
+[4] [5]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 338.
+ne 441.
 
 
-Overfull \hbox (2.26808pt too wide) in paragraph at lines 339--339
+Overfull \hbox (2.26808pt too wide) in paragraph at lines 442--442
 []\OT1/cmr/m/n/10.95 Lauri Wes-sel, Abay-omi Baiyere, Rox-ana Ologeanu-Taddei, 
 Jonghyuk Cha, and Tina Blegind-
  []
 
-[5] (MDE_IndividualAssignment.aux)
+[6] (MDE_IndividualAssignment.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MDE_IndividualAssignment.out' has not change
 d.
@@ -1386,13 +1393,13 @@ Package logreq Info: Writing requests to 'MDE_IndividualAssignment.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34461 strings out of 475385
- 701366 string characters out of 2776907
- 1583686 words of memory out of 3000000
- 55320 multiletter control sequences out of 15000+600000
+ 34528 strings out of 475385
+ 702737 string characters out of 2776907
+ 1595930 words of memory out of 3000000
+ 55382 multiletter control sequences out of 15000+600000
  479167 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,19n,128p,10621b,1401s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 130i,19n,128p,10621b,1463s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/pinak/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -1402,9 +1409,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pin
 ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 313213 bytes).
+Output written on MDE_IndividualAssignment.pdf (7 pages, 320473 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
  90 words of extra memory for PDF output out of 10000 (max. 10000000)
 
