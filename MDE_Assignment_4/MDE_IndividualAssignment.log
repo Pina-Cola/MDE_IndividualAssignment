@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  27 OCT 2023 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.12)  28 OCT 2023 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1363,10 +1363,10 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 337.
+ne 338.
 
 
-Overfull \hbox (2.26808pt too wide) in paragraph at lines 338--338
+Overfull \hbox (2.26808pt too wide) in paragraph at lines 339--339
 []\OT1/cmr/m/n/10.95 Lauri Wes-sel, Abay-omi Baiyere, Rox-ana Ologeanu-Taddei, 
 Jonghyuk Cha, and Tina Blegind-
  []
@@ -1402,9 +1402,9 @@ KTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pinak/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pinak/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pin
 ak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MDE_IndividualAssignment.pdf (6 pages, 312828 bytes).
+Output written on MDE_IndividualAssignment.pdf (6 pages, 313213 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
  90 words of extra memory for PDF output out of 10000 (max. 10000000)
 
