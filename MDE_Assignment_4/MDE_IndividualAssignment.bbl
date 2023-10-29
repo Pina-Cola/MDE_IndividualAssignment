@@ -118,6 +118,7 @@
       \strng{authorbibnamehash}{0875b7164b17a847eeb853e6703a4da4}
       \strng{authornamehash}{0875b7164b17a847eeb853e6703a4da4}
       \strng{authorfullhash}{0875b7164b17a847eeb853e6703a4da4}
+      \field{extraname}{1}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
@@ -128,6 +129,31 @@
       \field{year}{1994}
       \field{pages}{73\bibrangedash 73}
       \range{pages}{1}
+    \endentry
+    \entry{digitalmatrix}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f1234a847d19cfb21ce1da322fbbb75c}{%
+           family={Venkatraman},
+           familyi={V\bibinitperiod},
+           given={Venkat},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LifeTree Media}%
+      }
+      \strng{namehash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \strng{fullhash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \strng{bibnamehash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \strng{authorbibnamehash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \strng{authornamehash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \strng{authorfullhash}{f1234a847d19cfb21ce1da322fbbb75c}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The digital matrix: new rules for business transformation through technology}
+      \field{year}{2017}
     \endentry
     \entry{vial}{article}{}
       \name{author}{1}{}{%
@@ -204,6 +230,40 @@
       \field{year}{2021}
       \field{pages}{102\bibrangedash 129}
       \range{pages}{28}
+    \endentry
+    \entry{leadingdigital}{book}{}
+      \name{author}{3}{}{%
+        {{hash=3da689c5cf8176fe95d792e6bfc4b8c1}{%
+           family={Westerman},
+           familyi={W\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0bc1602d1ed6bc802d93adfb74c084c1}{%
+           family={Bonnet},
+           familyi={B\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Press}%
+      }
+      \strng{namehash}{13d2c1c86d27baa426b9b02285ff762d}
+      \strng{fullhash}{13d2c1c86d27baa426b9b02285ff762d}
+      \strng{bibnamehash}{13d2c1c86d27baa426b9b02285ff762d}
+      \strng{authorbibnamehash}{13d2c1c86d27baa426b9b02285ff762d}
+      \strng{authornamehash}{13d2c1c86d27baa426b9b02285ff762d}
+      \strng{authorfullhash}{13d2c1c86d27baa426b9b02285ff762d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leading digital: Turning technology into business transformation}
+      \field{year}{2014}
     \endentry
     \entry{wiwi}{misc}{}
       \name{author}{1}{}{%
