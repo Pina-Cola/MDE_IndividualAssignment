@@ -2418,6 +2418,8 @@
     <bcf:citekey order="43" intorder="1">DDDM</bcf:citekey>
     <bcf:citekey order="43" intorder="2">masterthesis</bcf:citekey>
     <bcf:citekey order="44" intorder="1">tips2</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="45" intorder="2">wiwi</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
