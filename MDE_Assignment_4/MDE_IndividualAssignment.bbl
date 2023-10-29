@@ -104,6 +104,44 @@
       \field{pages}{94\bibrangedash 104}
       \range{pages}{11}
     \endentry
+    \entry{air}{article}{}
+      \name{author}{1}{}{%
+        {{hash=59de71b0a39b51e691d38102be3bc0d5}{%
+           family={Holmström},
+           familyi={H\bibinitperiod},
+           given={Jonny},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{59de71b0a39b51e691d38102be3bc0d5}
+      \strng{fullhash}{59de71b0a39b51e691d38102be3bc0d5}
+      \strng{bibnamehash}{59de71b0a39b51e691d38102be3bc0d5}
+      \strng{authorbibnamehash}{59de71b0a39b51e691d38102be3bc0d5}
+      \strng{authornamehash}{59de71b0a39b51e691d38102be3bc0d5}
+      \strng{authorfullhash}{59de71b0a39b51e691d38102be3bc0d5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Strategies and means for selecting and implementing digital technologies that realize firms’ goals in digital transformation have been extensively investigated. The recent surge in artificial intelligence (AI) technologies has amplified the need for such investigation, as they are being increasingly used in diverse organizational practices, creating not only new opportunities for digital transformation but also new challenges for managers of digital transformation processes. In this article, I present a framework intended to assist efforts to address one of the first of these challenges: assessment of organizational AI readiness—that is, an organization’s ability to deploy AI technologies to enable digital transformation, in four key dimensions: technologies, activities, boundaries, and goals. I show that this framework can facilitate analysis both of an organization’s current sociotechnical AI status and of the prospects for the technology’s fuller value-adding, sociotechnical deployment. The AI readiness framework invites fuller theorizing of the roles that AI can—and will—play in digital transformation.}
+      \field{issn}{0007-6813}
+      \field{journaltitle}{Business Horizons}
+      \field{number}{3}
+      \field{title}{From AI to digital transformation: The AI readiness framework}
+      \field{volume}{65}
+      \field{year}{2022}
+      \field{pages}{329\bibrangedash 339}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.bushor.2021.03.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0007681321000744
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0007681321000744
+      \endverb
+      \keyw{Artificial intelligence,AI readiness,Digital transformation,Digitalization,Digitization}
+    \endentry
     \entry{scalescopespeedslides}{misc}{}
       \name{author}{1}{}{%
         {{hash=ccfe8ba796fd1796e4ca1136ad3b5529}{%
