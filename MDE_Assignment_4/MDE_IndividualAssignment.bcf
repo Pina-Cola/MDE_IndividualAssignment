@@ -2412,19 +2412,19 @@
     <bcf:citekey order="40" intorder="2">vial</bcf:citekey>
     <bcf:citekey order="40" intorder="3">DTOT</bcf:citekey>
     <bcf:citekey order="40" intorder="4">leadingdigital</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">wiwi</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">air</bcf:citekey>
-    <bcf:citekey order="42" intorder="2">tips2</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">air</bcf:citekey>
+    <bcf:citekey order="41" intorder="2">tips2</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">tips2</bcf:citekey>
+    <bcf:citekey order="42" intorder="2">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="42" intorder="3">leadingdigital</bcf:citekey>
     <bcf:citekey order="43" intorder="1">tips2</bcf:citekey>
-    <bcf:citekey order="43" intorder="2">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="43" intorder="3">leadingdigital</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">tips2</bcf:citekey>
-    <bcf:citekey order="44" intorder="2">tips1</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">DDDM</bcf:citekey>
-    <bcf:citekey order="45" intorder="2">masterthesis</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">tips2</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">digitalmatrix</bcf:citekey>
-    <bcf:citekey order="47" intorder="2">wiwi</bcf:citekey>
+    <bcf:citekey order="43" intorder="2">tips1</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">DDDM</bcf:citekey>
+    <bcf:citekey order="44" intorder="2">masterthesis</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">tips2</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">digitalmatrix</bcf:citekey>
+    <bcf:citekey order="46" intorder="2">wiwi</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">wiwi</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
