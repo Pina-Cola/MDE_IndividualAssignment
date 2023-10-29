@@ -80,6 +80,30 @@
       \field{pages}{94\bibrangedash 104}
       \range{pages}{11}
     \endentry
+    \entry{acceptance}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82467528cf8e1868b9b23180fb2d7438}{%
+           family={Marz},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cuvillier Verlag}%
+      }
+      \strng{namehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{fullhash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{bibnamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authorbibnamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authornamehash}{82467528cf8e1868b9b23180fb2d7438}
+      \strng{authorfullhash}{82467528cf8e1868b9b23180fb2d7438}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technology Acceptance in the Context of Digital Transformation: Studies on How and Why People Use Connected Objects}
+      \field{year}{2021}
+    \endentry
     \entry{venkat}{article}{}
       \name{author}{1}{}{%
         {{hash=0875b7164b17a847eeb853e6703a4da4}{%
@@ -180,6 +204,30 @@
       \field{year}{2021}
       \field{pages}{102\bibrangedash 129}
       \range{pages}{28}
+    \endentry
+    \entry{wiwi}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ce625254c2e388f2a4827f32704c14ab}{%
+           family={Wiesche},
+           familyi={W\bibinitperiod},
+           given={Prof.\bibnamedelimi Dr.\bibnamedelimi Manuel},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {TU Dortmund}%
+      }
+      \strng{namehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{fullhash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{bibnamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authorbibnamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authornamehash}{ce625254c2e388f2a4827f32704c14ab}
+      \strng{authorfullhash}{ce625254c2e388f2a4827f32704c14ab}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lecture notes in Digitalisierung}
+      \field{year}{2021}
     \endentry
   \enddatalist
 \endrefsection
