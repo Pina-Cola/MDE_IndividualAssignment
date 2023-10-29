@@ -158,6 +158,35 @@
       \field{title}{Assignment 1 in Managing the Digital Enterprise}
       \field{year}{2023}
     \endentry
+    \entry{tips2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5afb6a0ae730118018a0d8d0f8b843e2}{%
+           family={Lebrau},
+           familyi={L\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SkillsYouNeed}%
+      }
+      \strng{namehash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \strng{fullhash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \strng{bibnamehash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \strng{authorbibnamehash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \strng{authornamehash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \strng{authorfullhash}{5afb6a0ae730118018a0d8d0f8b843e2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Improving Your Digital Skills: Technology Tips to Manage Digital Transformation in Your Organization}
+      \verb{urlraw}
+      \verb https://www.skillsyouneed.com/rhubarb/manage-digital-transformation.html
+      \endverb
+      \verb{url}
+      \verb https://www.skillsyouneed.com/rhubarb/manage-digital-transformation.html
+      \endverb
+    \endentry
     \entry{acceptance}{article}{}
       \name{author}{1}{}{%
         {{hash=82467528cf8e1868b9b23180fb2d7438}{%
@@ -181,6 +210,37 @@
       \field{labeltitlesource}{title}
       \field{title}{Technology Acceptance in the Context of Digital Transformation: Studies on How and Why People Use Connected Objects}
       \field{year}{2021}
+    \endentry
+    \entry{tips1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d2abc5dc8c19b83612c4e84817fd4a3e}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {TechTarget}%
+      }
+      \strng{namehash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \strng{fullhash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \strng{bibnamehash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \strng{authorbibnamehash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \strng{authornamehash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \strng{authorfullhash}{d2abc5dc8c19b83612c4e84817fd4a3e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{12 digital transformation tips and best practices}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.techtarget.com/searchcio/tip/Digital-transformation-tips-and-best-practices
+      \endverb
+      \verb{url}
+      \verb https://www.techtarget.com/searchcio/tip/Digital-transformation-tips-and-best-practices
+      \endverb
     \endentry
     \entry{DDDM}{article}{}
       \name{author}{2}{}{%
