@@ -352,6 +352,36 @@
       \field{pages}{1\bibrangedash 50}
       \range{pages}{50}
     \endentry
+    \entry{masterthesis}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=152bc44b175e8a881b36a48042e813e6}{%
+           family={Sjöbäck},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c64e040ef4540a00e107ee4f13939ac4}{%
+           family={Spaak},
+           familyi={S\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Linköping University}%
+      }
+      \strng{namehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{fullhash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{bibnamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authorbibnamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authornamehash}{6ae7c931d9511c29e700570a3096ad4d}
+      \strng{authorfullhash}{6ae7c931d9511c29e700570a3096ad4d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital Business Transformation in Incumbent Firms}
+      \field{type}{mathesis}
+      \field{year}{2021}
+    \endentry
     \entry{venkat}{article}{}
       \name{author}{1}{}{%
         {{hash=0875b7164b17a847eeb853e6703a4da4}{%
